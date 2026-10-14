@@ -38,7 +38,7 @@ Três ressalvas:
 | **Incubação** | Acompanha um projeto específico em estágio inicial. Conversa comercial distinta da aceleração. | <dado q="B" nota="Frente em construção." /> |
 | **Serviços · Assessoria** | Acompanhamento contínuo de uma empresa. **Não é agência.** Venda consultiva e relacional. | <dado q="B" nota="Validada comercialmente." /> |
 | **Serviços · Consultoria** | Diagnostica, recomenda e estrutura caminhos. Fronteira com assessoria não definida. | <dado q="C" /> |
-| **B2B** | Empresas: workshops, treinamentos, programas internos, projetos especiais. Canal e frente de receita, não produto único. | <dado q="C" nota="Sem oferta estruturada." /> |
+| **B2B** | Empresas: Overpass Empresarial (a partir de 10 licenças), Workshops de IA (4h e 8h), AI Build (Pilot, Modular e Enterprise, preço por escopo), treinamentos, programas internos e projetos especiais. Canal e frente de receita, não produto único. Regras de venda na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial). | <dado q="B" nota="Overpass Empresarial, Workshops e AI Build com regra comercial aprovada; a frente como um todo segue em validação." /> |
 | **Eventos** | Hackathons, imersões e encontros. Aquisição, comunidade e descoberta de projetos ao mesmo tempo. | <dado q="B" /> |
 | **Produtos físicos e artefatos** | **Artefatos de pertencimento**, não merchandising. Identidade, participação, memória, acesso. | <dado q="C" nota="Implementação em desenvolvimento." /> |
 
@@ -46,7 +46,7 @@ A definição de cada frente está em *Arquitetura de Produtos e Serviços* e *A
 
 ## O que isso muda para quem comunica e vende
 
-**Uma frente ativa não é a mesma conversa que uma frente em validação.** Assessoria já foi validada comercialmente, mas não tem oferta empacotada; B2B não tem preço nem processo. Tratar as duas como linha de produto em material público antecipa decisões que ainda não foram tomadas.
+**Uma frente ativa não é a mesma conversa que uma frente em validação.** Assessoria já foi validada comercialmente, mas não tem oferta empacotada. Em B2B, Overpass Empresarial e Workshops de IA têm preço, piso e processo aprovados, o AI Build é vendido por escopo, e o fechamento das três cabe ao Comercial; treinamentos, programas internos e a parceria empresarial Vanguarda seguem sem oferta estruturada. Ver [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial) e [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais). <dado q="A" /> Tratar o que ainda não tem oferta como linha de produto em material público antecipa decisões que ainda não foram tomadas.
 
 **Cada frente tem um estado de entrada diferente.** Quem procura educação está perguntando "como eu aprendo a fazer isso?". Quem procura incubação pergunta "isso pode existir?". Quem procura aceleração pergunta "como isso avança mais rápido?". Quem procura assessoria pergunta "vocês fazem isso comigo?". **Usar o mesmo argumento para todas desqualifica a oferta.**
 
@@ -73,6 +73,8 @@ A definição de cada frente está em *Arquitetura de Produtos e Serviços* e *A
 
 Esta página enquadrava as ofertas exclusivamente como produtos educacionais organizados por função na jornada de compra: front-end, back-end e high-end, ancorados em Jobs to Be Done. Esse enquadramento descrevia corretamente uma arquitetura de três produtos, mas não comporta a arquitetura atual, que inclui serviços, B2B, incubação, eventos e artefatos. <dado q="D" />
 
+Até outubro de 2026, esta página registrava B2B como frente sem oferta estruturada, sem preço e sem processo. A Política Comercial de 06/10/2026 e os adendos de 08/10/2026 aprovaram as regras do Overpass Empresarial, dos Workshops de IA e do AI Build. <dado q="D" />
+
 A classificação por função comercial (front-end / back-end / high-end) permanece registrada nas fichas técnicas de cada oferta como **registro do que foi praticado**, não como definição estratégica.
 
 ## O que precisa ser decidido
@@ -80,3 +82,4 @@ A classificação por função comercial (front-end / back-end / high-end) perma
 1. Quais frentes recebem esforço comercial dedicado neste ciclo e quais seguem como experimento. <dado q="E" />
 2. Como cada frente é apresentada publicamente: se aparece no site, em que ordem e com qual linguagem. <dado q="E" />
 3. Qual a transição desenhada entre as camadas. <dado q="E" />
+4. Em qual frente o AI Build se enquadra, B2B ou Serviços. <dado q="E" />

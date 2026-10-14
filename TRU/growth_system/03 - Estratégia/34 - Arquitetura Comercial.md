@@ -10,6 +10,8 @@ O princípio que organiza tudo:
 
 A definição de como a companhia captura valor pertence ao Business Document, em *Arquitetura de Receita*. Esta página trata do que pertence ao Growth System: **como as pessoas descobrem, consideram, compram, permanecem e expandem** dentro de uma operação que não desliga.
 
+Parte do desenho operacional já existe na seção Operação Comercial: as regras de venda estão na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial), quem responde por cada etapa está em [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais) e quem comunica, quando e por qual canal está na [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens), ainda em minuta. Esta página aponta para elas onde houver resposta e mantém pendente o que nenhuma delas resolve. <dado q="B" nota="Política Comercial e Responsabilidades Comerciais com decisões aprovadas; Política de Mensagens em Minuta V1." />
+
 ## A diferença econômica entre campanha e sistema
 
 A distinção não é de estilo. É de natureza econômica.
@@ -31,7 +33,7 @@ Duas ressalvas honestas. **Campanha não é erro**: lançamento é um mecanismo 
 
 ## As peças da operação contínua
 
-Cada peça abaixo descreve **o que faz e como se encaixa**. Nenhuma descreve processo, cadência, script, ferramenta ou meta, porque nada disso foi decidido, e inventar seria documentar suposição como decisão.
+Cada peça abaixo descreve **o que faz e como se encaixa**. Quando uma regra já foi decidida ou proposta, a peça aponta a página dona dela, sem repetir o conteúdo. O resto (processo, cadência, script, ferramenta ou meta) segue sem decisão, e inventar seria documentar suposição como decisão.
 
 ### Aquisição contínua
 
@@ -55,7 +57,9 @@ O sistema de registro e condução do relacionamento comercial: quem é cada pes
 
 Encaixe: é a memória da operação. Sem ele, a continuidade depende de quem lembra, e uma operação contínua não pode depender de memória individual.
 
-Qual ferramenta, que estágios são registrados, quem mantém e quais dados são obrigatórios? <dado q="E" />
+Quem registra o quê já tem desenho proposto: CS registra renovações e upgrades encaminhados; Comercial registra aceite, proposta e desfecho dos upgrades; origem, influência e fechamento ficam em campos distintos. Ver [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais). <dado q="C" nota="Registro mínimo e campos de CRM em proposta; só a separação entre origem, influência e fechamento está ratificada." />
+
+Qual ferramenta, quais estágios e quais campos são obrigatórios, e como as funções viram perfis e permissões? <dado q="E" />
 
 ### Vendedores
 
@@ -63,7 +67,11 @@ Pessoas responsáveis por conduzir conversas comerciais, entender contexto, qual
 
 Encaixe: é a camada humana entre o interesse e o compromisso. Sua qualidade define a experiência de compra tanto quanto o produto.
 
-Quantas pessoas, com qual escopo, remuneração, critério de qualificação e para quais ofertas? <dado q="E" />
+O escopo do setor está definido: o Comercial (B2C e B2B) responde por prospecção, qualificação, propostas, negociação e fechamento de novas vendas e dos upgrades encaminhados pelo CS, e centraliza os fechamentos de Overpass, Vanguarda, workshops, AI Build e implementações. Os limites de negociação estão na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial). Ver [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais). <dado q="A" />
+
+A remuneração de quem entrega (instrutoria) é separada da comissão comercial; ver [Política de Instrutoria, Palestras e Ativos de Marca](/business/03-arquitetura/05-politica-de-instrutoria-palestras-e-ativos-de-marca). <dado q="A" />
+
+Quantas pessoas, com qual remuneração (OTE, variável, comissão interna) e com que critério de qualificação? Nenhum OTE ou percentual interno de comissão está aprovado. <dado q="E" />
 
 ### Follow-up
 
@@ -71,7 +79,9 @@ O acompanhamento de uma conversa iniciada e não concluída. A maior parte das d
 
 Encaixe: é o que converte o trabalho de aquisição já pago em resultado. É também a peça mais sensível ao tom: acompanhar é diferente de pressionar.
 
-Em que momento, por quem, por qual canal e até quando se acompanha uma conversa? <dado q="E" />
+Os critérios gerais para decidir canal, momento, público e responsável de cada mensagem estão em minuta na [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens). No upgrade, o Comercial assume em até 24 horas a oportunidade encaminhada pelo CS (ver [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais)). <dado q="B" nota="Política de Mensagens em Minuta V1; o prazo de 24 horas do upgrade está aprovado." />
+
+Até quando se acompanha uma conversa comercial, com que frequência e com que limite? <dado q="E" />
 
 ### Recuperação de leads
 
@@ -79,7 +89,9 @@ Retomada de contatos que demonstraram interesse em algum momento e não avançar
 
 Encaixe: aproveita o investimento de aquisição já realizado em ciclos anteriores: exatamente o tipo de acúmulo que a lógica de campanha desperdiça.
 
-Que critérios definem um contato recuperável, com que frequência se retoma e com qual mensagem? <dado q="E" />
+Para carrinho abandonado e inscritos ausentes em live, os critérios de elegibilidade e as verificações antes do disparo estão em minuta na [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens); o intervalo ideal de abordagem ainda é hipótese em teste. <dado q="B" nota="Minuta V1, 10/10/2026." />
+
+Que critérios definem um lead antigo como recuperável, com que frequência se retoma e com qual mensagem? <dado q="E" />
 
 ### WhatsApp
 
@@ -87,7 +99,9 @@ Canal de relacionamento direto e de alta proximidade. Concentra tanto conversas 
 
 Encaixe: é onde boa parte do follow-up, da recuperação e do atendimento acontece. Por ser íntimo, é onde o tom da Overlens fica mais exposto.
 
-Que usos são legítimos, quem opera, que registro é feito no CRM e quais os limites de frequência e abordagem? <dado q="E" />
+Os usos do WhatsApp em grupo e individual, quem redige, envia e automatiza, e os critérios de frequência e abordagem estão na [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens). Os disparos são registrados no ClickUp. <dado q="B" nota="Minuta V1, 10/10/2026." />
+
+Que registro é feito no CRM e quais os limites numéricos de frequência? <dado q="E" />
 
 ### Conteúdo
 
@@ -119,7 +133,9 @@ Ofertas disponíveis o ano inteiro, sem janela de abertura e fechamento. São a 
 
 Encaixe: sustentam a receita entre campanhas e permitem que a decisão aconteça no tempo da pessoa, não no tempo do calendário comercial.
 
-Quais ofertas se tornam perpétuas, em que formato e com que estrutura de preço? <dado q="E" />
+A estrutura de preço vigente da Vanguarda, do Overpass individual e do Programa Empresarial Overpass está na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial). <dado q="A" />
+
+Quais ofertas se tornam perpétuas e em que formato? <dado q="E" />
 
 ### Expansão de clientes
 
@@ -127,7 +143,9 @@ Crescimento da relação com quem já é cliente: avanço para outra camada, nov
 
 Encaixe: é a fonte de receita mais barata da operação, porque dispensa aquisição. Depende de saber em que estado cada pessoa está, o que hoje ainda não é observável.
 
-Que movimentos de expansão existem, quem os conduz e a partir de que sinal? <dado q="E" />
+O upgrade Overpass → Vanguarda já tem regra e condutor: CS identifica a oportunidade e encaminha ao Comercial, que assume em até 24 horas, negocia e fecha, enquanto o CS conserva o relacionamento. O valor pago no Overpass (ou no Black Pass) pode virar crédito, respeitado o piso da nova venda. Ver [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais) e [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial). <dado q="A" />
+
+Que movimentos de expansão existem além do upgrade e a partir de que sinal? <dado q="E" />
 
 ### Retenção
 
@@ -135,7 +153,9 @@ Permanência de quem já está dentro. Na camada contínua, permanência é rece
 
 Encaixe: uma operação contínua com retenção fraca é um funil disfarçado: enche na frente e vaza atrás, e o custo de aquisição nunca amortiza.
 
-O que é acompanhado como sinal de permanência e o que é feito quando esse sinal cai? <dado q="E" />
+A renovação da Vanguarda é responsabilidade integral do CS, com preço-base congelado por cinco anos a partir da primeira compra enquanto não houver cancelamento. Pedidos de retenção, cancelamento, reembolso e compensação são centralizados pelo CS e decididos por Ruan ou Rafael, sem afastar obrigações legais. Ver [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais) e [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial). <dado q="A" />
+
+Que sinais de permanência são acompanhados e o que se faz quando eles caem? <dado q="E" />
 
 ### Relacionamento de longo prazo
 
@@ -143,7 +163,9 @@ A camada que atravessa todas as outras: tratar cada pessoa como alguém que cont
 
 Encaixe: é o que diferencia um sistema comercial de uma máquina de conversão. Também é o que torna reputação e indicação possíveis: as entradas mais baratas do ciclo.
 
-Quem é responsável pelo relacionamento depois da venda e como isso se articula com comunidade e produto? <dado q="E" />
+Depois da venda, o relacionamento com o cliente é do Customer Success, que recebe do Comercial o contexto da compra e conduz onboarding, acompanhamento e renovação. Ver [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais). <dado q="A" />
+
+Como esse relacionamento se articula com comunidade e produto? <dado q="E" />
 
 ## Como as peças se encaixam
 
@@ -180,17 +202,17 @@ Esse modelo **não é abandonado**: campanhas seguem sendo um mecanismo válido.
 
 ## O que precisa ser decidido
 
-Consolidação das decisões ausentes. Nenhuma deve ser preenchida por suposição.
+Consolidação das decisões ausentes. Nenhuma deve ser preenchida por suposição. Onde já existe resposta parcial, o item aponta a página dona e diz o que falta.
 
-1. **Quais ofertas se tornam perpétuas** e quais permanecem em ciclos fechados.
-2. **Qual ferramenta de CRM** e quais estágios do relacionamento são registrados nela.
-3. **Estrutura do time comercial:** quantas pessoas, escopo, remuneração e ofertas sob responsabilidade de cada uma.
-4. **Política de follow-up:** momento, canal, responsável e limite.
-5. **Critérios de recuperação de leads:** o que caracteriza um contato recuperável e com que frequência se retoma.
-6. **Uso do WhatsApp:** usos legítimos, operação, registro e limites de abordagem.
+1. **Quais ofertas se tornam perpétuas** e quais permanecem em ciclos fechados. A estrutura de preço vigente já está na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial).
+2. **Qual ferramenta de CRM** e quais estágios do relacionamento são registrados nela. Quem registra o quê está proposto em [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais); faltam procedimento, campos obrigatórios, perfis e permissões.
+3. **Estrutura do time comercial:** escopo por setor e ofertas sob responsabilidade já definidos em [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais); faltam quantidade de pessoas, remuneração (OTE, variável, comissões internas) e metas.
+4. **Política de follow-up:** momento, canal, responsável e limite. Os critérios gerais de canal, momento e responsável estão em minuta na [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens); faltam aprovação e limites do follow-up comercial.
+5. **Critérios de recuperação de leads:** o que caracteriza um contato recuperável e com que frequência se retoma. Carrinho abandonado e inscritos ausentes já têm critérios em minuta na [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens); leads antigos seguem sem critério.
+6. **Uso do WhatsApp:** critérios de canal e responsáveis propostos na [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens) (Minuta V1); faltam aprovação final, registro no CRM e limites numéricos de frequência.
 7. **Operação de conteúdo:** volume, formatos, canais e responsáveis.
 8. **Calendário de eventos recorrentes** e o papel comercial de cada um.
 9. **Convivência entre campanhas e venda contínua** ao longo do ano.
-10. **Sinais de retenção e de expansão** que a operação acompanha, e o que se faz quando eles caem.
-11. **Responsabilidade pelo relacionamento pós-venda** e sua articulação com comunidade e produto.
+10. **Sinais de retenção e de expansão** que a operação acompanha, e o que se faz quando eles caem. Os responsáveis por renovação, upgrade e retenção já estão definidos em [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais).
+11. **Articulação do relacionamento pós-venda com comunidade e produto.** O responsável (Customer Success) já está definido em [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais).
 12. **Indicadores da operação comercial.** Nenhuma meta, taxa ou número está definido, e nenhum deve ser inferido de documentos anteriores sem revalidação.

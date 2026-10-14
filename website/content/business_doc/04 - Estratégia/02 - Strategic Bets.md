@@ -6,7 +6,7 @@ keywords: [strategic bets, apostas, PBL, aprendizagem baseada em projetos, IA co
 priority: high
 ai_when_to_use: |
   Use quando o usuário perguntar quais são as apostas estratégicas da Overlens, em que a companhia está apostando e com que grau de certeza, o que precisaria ser verdade para cada aposta se confirmar, ou como saberíamos que uma delas está errada. Aposta não é decisão: sempre transmita o nível de certeza junto com o conteúdo.
-related: ["business_doc/04 - Estratégia/01 - Moats.md", "business_doc/04 - Estratégia/04 - Riscos e Incertezas.md", "business_doc/01 - Overview/04 - Business Thesis.md", "business_doc/03 - Arquitetura/01 - Arquitetura de Produtos e Serviços.md"]
+related: ["business_doc/04 - Estratégia/01 - Moats.md", "business_doc/04 - Estratégia/04 - Riscos e Incertezas.md", "business_doc/01 - Overview/04 - Business Thesis.md", "business_doc/03 - Arquitetura/01 - Arquitetura de Produtos e Serviços.md", "growth_system/04 - Operação Comercial/35 - Política Comercial.md"]
 ---
 # Strategic Bets
 
@@ -80,7 +80,7 @@ Cada aposta abaixo registra: o que se está apostando, por que, o que precisaria
 
 ## Aposta 6 · Serviços e expansão B2B
 
-**O que apostamos:** que a Overlens pode atuar diretamente sobre negócios e empresas, e não apenas sobre pessoas. <dado q="B" nota="Assessoria, já validada comercialmente." /> <dado q="C" nota="Consultoria e B2B." />
+**O que apostamos:** que a Overlens pode atuar diretamente sobre negócios e empresas, e não apenas sobre pessoas. <dado q="B" nota="Assessoria, já validada comercialmente; B2B com ofertas de regra comercial aprovada (Overpass Empresarial, Workshops de IA, AI Build), demanda ainda não medida." /> <dado q="C" nota="Consultoria." />
 
 **Por quê:** ticket maior, relação mais longa e aprendizado real que retroalimenta método e conteúdo.
 

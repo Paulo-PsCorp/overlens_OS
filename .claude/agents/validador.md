@@ -21,7 +21,7 @@ Executar um checklist binário (passa/falha) em cada página, garantindo que TOD
 - [ ] Título H1 presente e limpo (sem formatação extra)
 - [ ] Frase de abertura H2 presente (evocativa, não genérica)
 - [ ] Hierarquia de cabeçalhos consistente (H1 > H2 > H3, sem pular níveis)
-- [ ] Parágrafos com 3-6 frases (não blocos gigantes nem frases soltas)
+- [ ] Parágrafos com tamanho que acompanha o raciocínio (não blocos gigantes nem frases soltas sem progressão)
 - [ ] Pelo menos 1 lista ou tabela quando a página tem mais de 500 palavras
 - [ ] Formatação Markdown válida
 
@@ -34,6 +34,8 @@ Executar um checklist binário (passa/falha) em cada página, garantindo que TOD
 - [ ] ZERO infantilização do leitor
 - [ ] ZERO tom de guru/messias
 - [ ] ZERO hustle porn de empreendedorismo: promessa de enriquecimento, faturamento, "liberdade financeira", "escale", glamourização de rotina extrema, tom de startup bro
+- [ ] ZERO travessões (— ou –)
+- [ ] Vícios do Guia Rápido de Escrita (`website/content/estudio_criativo/07 - Guia de Escrita/01 Guia Rápido de Escrita.md`) ausentes ou justificados no contexto ("não é X, é Y", "mais do que X", tríades artificiais e contrastes forçados nunca como cadência; nada de vocabulário vazio nem emojis decorativos)
 - [ ] Presença de pelo menos 1 das 4 virtudes (Científica, Profunda, Provocativa, Inspiradora)
 
 ### 3. CONFORMIDADE DE VOCABULÁRIO

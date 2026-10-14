@@ -31,6 +31,8 @@ Cada revisão avalia 6 dimensões:
 - As frases variam em tamanho (curtas + médias)?
 - O ritmo é envolvente sem ser cansativo?
 - Compara com páginas de referência: o tom é indistinguível?
+- Há algum travessão (— ou –)? Qualquer ocorrência é correção obrigatória
+- O texto passa nas três perguntas do Guia Rápido de Escrita (`website/content/estudio_criativo/07 - Guia de Escrita/01 Guia Rápido de Escrita.md`) (poderia ser de qualquer empresa? há substância concreta? alguém escreveria assim nesse canal?) e evita os vícios listados lá? "Não é X, é Y", tríades e contrastes isolados e justificados não são reprovação; usados como cadência, são
 
 ### I de Integridade Conceitual
 - Tudo que está escrito é coerente com os fundamentos da Overlens?

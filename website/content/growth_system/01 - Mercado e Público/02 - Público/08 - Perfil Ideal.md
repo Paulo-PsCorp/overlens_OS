@@ -6,7 +6,7 @@ keywords: [ICP, perfil ideal de cliente, empreendedor, oferta no ar, receita rec
 priority: high
 ai_when_to_use: |
   Use quando o usuário perguntar sobre o perfil ideal de cliente da Overlens, ICP, ou ao desenhar discovery call e prospecção. ATENÇÃO: esta página necessita revisão de persona: foi construída sobre as personas antigas e sobre o recorte anterior de público. Todos os indicadores (ticket, LTV, ciclo, volume, faixas de receita) são históricos e não devem ser usados como critério de qualificação, precificação ou projeção.
-related: []
+related: [growth_system/02 - Ofertas/23 - Ofertas, growth_system/02 - Ofertas/30 - Vanguarda, growth_system/04 - Operação Comercial/35 - Política Comercial, business_doc/06 - Histórico/02 - Registro do Modelo Anterior]
 ---
 
 # Perfil Ideal
@@ -49,7 +49,9 @@ Na leitura por modos, é alguém que já **conecta** com desenvoltura e começa 
 
 **Tamanho do ciclo de vendas** *(HISTÓRICO)*: **7 a 30 dias** em média, quando o cliente tinha contato com a narrativa completa e uma proposta bem alinhada. **Menor** quando a dor já estava latente (a oferta parou de vender, o negócio depende inteiramente da presença do fundador). **Maior** quando a pessoa ainda estava reorganizando a própria forma de trabalhar.
 
-**Forma de pagamento e adimplência**: Pagamento geralmente à vista ou parcelado no cartão (quando impulsionado por desejo e confiança na transformação). Alta adimplência em compras conscientes. A inadimplência aparece mais entre perfis de entropia financeira.
+**Forma de pagamento e adimplência**: Pagamento geralmente à vista ou parcelado no cartão (quando impulsionado por desejo e confiança na transformação). Alta adimplência em compras conscientes. A inadimplência aparece mais entre perfis de entropia financeira. <dado q="D" />
+
+As formas de pagamento vigentes (cartão com juros por conta do comprador, Pix à vista e Pix parcelado provisório) estão na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial). Inadimplência e recebimento líquido seguem pendentes de levantamento. <dado q="E" />
 
 **Engajamento com a marca e satisfação**: Os clientes ideais são **altamente engajados**: respondem, compartilham, elogiam e dão feedbacks espontâneos. Demonstram **satisfação profunda quando percebem clareza, consistência narrativa e curadoria de alta qualidade** (não gostam de superficialidade). Engajam melhor quando há rituais simbólicos e comunidades pequenas com alta densidade intelectual.
 

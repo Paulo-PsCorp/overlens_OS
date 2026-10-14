@@ -38,7 +38,9 @@ Na leitura por modos, é alguém que já **conecta** com desenvoltura e começa 
 
 **Tamanho do ciclo de vendas** *(HISTÓRICO)*: **7 a 30 dias** em média, quando o cliente tinha contato com a narrativa completa e uma proposta bem alinhada. **Menor** quando a dor já estava latente (a oferta parou de vender, o negócio depende inteiramente da presença do fundador). **Maior** quando a pessoa ainda estava reorganizando a própria forma de trabalhar.
 
-**Forma de pagamento e adimplência**: Pagamento geralmente à vista ou parcelado no cartão (quando impulsionado por desejo e confiança na transformação). Alta adimplência em compras conscientes. A inadimplência aparece mais entre perfis de entropia financeira.
+**Forma de pagamento e adimplência**: Pagamento geralmente à vista ou parcelado no cartão (quando impulsionado por desejo e confiança na transformação). Alta adimplência em compras conscientes. A inadimplência aparece mais entre perfis de entropia financeira. <dado q="D" />
+
+As formas de pagamento vigentes (cartão com juros por conta do comprador, Pix à vista e Pix parcelado provisório) estão na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial). Inadimplência e recebimento líquido seguem pendentes de levantamento. <dado q="E" />
 
 **Engajamento com a marca e satisfação**: Os clientes ideais são **altamente engajados**: respondem, compartilham, elogiam e dão feedbacks espontâneos. Demonstram **satisfação profunda quando percebem clareza, consistência narrativa e curadoria de alta qualidade** (não gostam de superficialidade). Engajam melhor quando há rituais simbólicos e comunidades pequenas com alta densidade intelectual.
 

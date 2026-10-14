@@ -28,6 +28,20 @@ A auditoria abaixo **foi executada**. Este documento passa a ter duas funções:
 - Resíduos do rótulo antigo de público sobreviviam no **frontmatter** de páginas classificadas como "continua válido": Virtudes, Manifesto, Símbolos e Logotipos, Universo Sonoro e quatro páginas do Pacote Cultural. A auditoria original só inspecionou o corpo dos documentos.
 - O swipe file **Ensaio Manifesto** divide a humanidade em "Nexialistas, Operantes e Obsoletos", taxonomia que contradiz a regra atual (Operante não carrega julgamento de valor). Foi marcado com `<dado q="D" />`, preservado como referência de forma.
 
+### Atualização de 14/10/2026: políticas de operação comercial e guia de escrita
+
+Cinco documentos internos de outubro de 2026 entraram na base e passaram a ser a fonte sobre os assuntos que tratam:
+
+| Página nova | Origem |
+| :---- | :---- |
+| `growth_system/04 - Operação Comercial/35 - Política Comercial` | Política comercial Overlens, revisão de 08/10/2026 |
+| `growth_system/04 - Operação Comercial/36 - Responsabilidades Comerciais` | Política de responsabilidades comerciais, v1.0, 08/10/2026 |
+| `growth_system/04 - Operação Comercial/37 - Política de Mensagens` | Política de Mensagens, minuta V1, 10/10/2026 |
+| `business_doc/03 - Arquitetura/05 - Política de Instrutoria, Palestras e Ativos de Marca` | Política de instrutoria, v1.0, 08/10/2026 |
+| `estudio_criativo/07 - Guia de Escrita/01 Guia Rápido de Escrita` | Guia Rápido de Escrita, minuta V1, 10/10/2026 |
+
+Cerca de 30 páginas foram alinhadas a elas: ofertas (preços e pisos vigentes, valores anteriores em histórico), B2B (deixou de ser "sem oferta"), Arquitetura Comercial (pendências respondidas em parte), touchpoints e playbook (assinatura de automações, Instagram e Manychat, copy de carrinho), Tom de Voz, Arquitetura de Marca (Blackpass), regras e agentes (travessão proibido, vícios de escrita). Decisões que continuam abertas estão marcadas com `<dado q="E" />` nas próprias páginas.
+
 ---
 
 ## Sumário executivo

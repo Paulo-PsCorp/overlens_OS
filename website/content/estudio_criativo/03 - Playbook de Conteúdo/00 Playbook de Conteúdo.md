@@ -2,11 +2,11 @@
 title: Playbook de Conteúdo
 summary: "Capa do Playbook de Conteúdo: sistema vivo que reúne fundamentos, pesquisa, enquadramento, ferramentas, criativos e copy para a produção de conteúdo da Overlens."
 topics: [playbook, conteúdo, produção, sistema vivo, overview]
-keywords: [playbook de conteúdo, fundamentos, pesquisa, enquadramento, ferramentas, criativos, copy, sistema vivo, big idea, overlens]
+keywords: [playbook de conteúdo, fundamentos, pesquisa, enquadramento, ferramentas, criativos, copy, sistema vivo, big idea, overlens, guia rápido de escrita]
 priority: high
 ai_when_to_use: |
   Use quando o usuário pedir uma visão geral do Playbook de Conteúdo, perguntar por onde começar a produzir conteúdo, ou quiser entender quais seções existem e como o sistema de produção da Overlens se organiza.
-related: []
+related: [estudio_criativo/07 - Guia de Escrita/01 Guia Rápido de Escrita]
 ---
 
 # Playbook de Conteúdo
@@ -23,7 +23,7 @@ Este playbook reúne os fundamentos, processos e ferramentas necessários para p
 - **Pesquisa e Análise**; Métodos de investigação, coleta de referências e análise de contexto
 - **Enquadramento**; Como estruturar ideias, definir ângulos e construir narrativas
 - **Ferramentas**; Stack de produção, templates e recursos operacionais
-- **Criativos e Copy**; Diretrizes de criação, frameworks de copy e padrões visuais
+- **Criativos e Copy**; Diretrizes de criação, frameworks de copy e padrões visuais. A escrita em cada canal e os vícios a evitar estão no [Guia Rápido de Escrita](/estudio/07-guia-de-escrita/01-guia-rapido-de-escrita). <dado q="B" />
 
 ---
 

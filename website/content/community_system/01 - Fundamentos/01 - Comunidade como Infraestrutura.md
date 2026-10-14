@@ -6,7 +6,7 @@ keywords: [comunidade como infraestrutura, densidade, colaboração, descoberta 
 priority: high
 ai_when_to_use: |
   Use quando o usuário perguntar por que a comunidade da Overlens não é um grupo de WhatsApp ou Discord, qual a função estratégica da comunidade, o que significa densidade, ou por que comunidade é tratada como ativo econômico e não como feature de engajamento.
-related: ["community_system/00 - Definição/01 - Definição.md", "business_doc/04 - Estratégia/01 - Moats.md"]
+related: ["community_system/00 - Definição/01 - Definição.md", "business_doc/04 - Estratégia/01 - Moats.md", "growth_system/04 - Operação Comercial/37 - Política de Mensagens.md"]
 ---
 # Comunidade como Infraestrutura
 
@@ -18,7 +18,7 @@ A comunidade é tratada aqui como uma das infraestruturas do ecossistema, no mes
 
 A palavra carrega significados herdados que precisam ser recusados explicitamente, porque são eles que aparecem por padrão quando ninguém define nada:
 
-- **Não é grupo de WhatsApp nem servidor de Discord.** Essas são ferramentas de comunicação, não arquitetura. Uma comunidade pode habitar um Discord; um Discord não produz comunidade.
+- **Não é grupo de WhatsApp nem servidor de Discord.** Essas são ferramentas de comunicação, não arquitetura. Uma comunidade pode habitar um Discord; um Discord não produz comunidade. O WhatsApp em grupo, por exemplo, é um canal de comunicados da Overlens, com uso regido pela [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens); o canal não é a comunidade. <dado q="B" nota="A Política de Mensagens é uma minuta (V1, 10/10/2026)." />
 - **Não é networking.** Networking é troca de contatos com expectativa de retorno futuro e indefinido. Aqui o encontro existe em função de um projeto concreto.
 - **Não é feature de retenção.** Tratar comunidade como mecanismo para reduzir cancelamento inverte a relação: transforma pessoas em métrica e conversa em tática.
 - **Não é suporte.** Membros respondendo dúvidas uns dos outros é consequência possível, não finalidade.

@@ -261,5 +261,5 @@ Interpretação simbólica registrada: **Arcádia** = criação/possibilidade ·
 - **Grafia divergente:** a base usa *Téssera* e *Orbital*; `TRU/changes.md` usa *Tésera* e *Órbital*. Até haver decisão, não padronize à força: mantenha a grafia de cada documento e sinalize.
 - **Lugares sem leitura simbólica registrada:** Parallax, Noumenom e Limbo aparecem na Arquitetura de Marca sem definição. Não inventar significado.
 - **Trilhas sem status:** NexGen, Spectrum, AI First, Chrome, Idea, Gestalt e Signals aparecem na base sem confirmação de que existem como oferta. Não afirmar que existem.
-- **Produtos sem definição comercial:** Protocolo 3-2-1 e Blackpass.
+- **Produtos sem definição comercial:** Protocolo 3-2-1. Blackpass (*Black Pass* na Política Comercial) já tem definição comercial: acesso vitalício ao Overpass, que gera crédito no upgrade para a Vanguarda; venda e preço atuais não estão definidos.
 - **Métodos e artefatos herdados:** Códices, Tratado de Interfaces OVL 2530, Metodologia A.C.R.O, "os 4 graus de influência da percepção", "os 4 fundamentos do design visual". São citáveis como existentes, mas sem inventar conteúdo sobre eles.

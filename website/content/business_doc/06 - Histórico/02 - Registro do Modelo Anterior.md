@@ -6,7 +6,7 @@ keywords: [modelo anterior, edtech, escola de negócios emergentes, foco em IA, 
 priority: low
 ai_when_to_use: |
   Use quando o usuário perguntar como o modelo de negócio da Overlens estava documentado antes da transição, quais preços e indicadores foram praticados, quem eram as personas anteriores, ou precisar reconhecer material desatualizado em outro documento. Nenhuma informação daqui serve como base para decisão atual: os números foram medidos sob um recorte de público que não descreve mais a companhia.
-related: ["business_doc/06 - Histórico/01 - Evolução da Overlens.md", "business_doc/05 - Pesquisa/01 - Research e Market Intelligence.md", "business_doc/02 - Modelos/01 - Business Model Canvas.md", "growth_system/01 - Mercado e Público/03 - Personas/15 - Buyer Personas.md"]
+related: ["business_doc/06 - Histórico/01 - Evolução da Overlens.md", "business_doc/05 - Pesquisa/01 - Research e Market Intelligence.md", "business_doc/02 - Modelos/01 - Business Model Canvas.md", "growth_system/01 - Mercado e Público/03 - Personas/15 - Buyer Personas.md", "growth_system/04 - Operação Comercial/35 - Política Comercial.md"]
 ---
 # Registro do Modelo Anterior
 
@@ -66,7 +66,9 @@ Quatro buyer personas, construídas sobre origem profissional, faixa etária, re
 | **Overpass** | Back-end / Assinatura | R$180/mês · 12x R$149 anual · R$1.500 à vista |
 | **Vanguarda** | High-end / Mentoria | R$12.000 ou 12x R$1.000; especial R$9.000 ou 12x R$750; semestral R$6.000 nunca testado |
 
-**Os preços continuam sendo registro factual do que foi praticado.** O que mudou é o enquadramento: Atlas não é definido por ser barato, Overpass não é biblioteca, Vanguarda não é apenas mentoria. A tabela de preços vigente é responsabilidade da operação comercial, não deste registro histórico.
+**Os preços continuam sendo registro factual do que foi praticado.** O que mudou é o enquadramento: Atlas não é definido por ser barato, Overpass não é biblioteca, Vanguarda não é apenas mentoria. A tabela de preços vigente é responsabilidade da operação comercial, não deste registro histórico: desde 08/10/2026, ela está na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial).
+
+O valor especial de R$ 9.000 aparece na Política Comercial como referência histórica promocional, e não como preço vigente nem piso. A qual oferta ele pertencia não está confirmado. <dado q="D" nota="Origem a confirmar." />
 
 ---
 

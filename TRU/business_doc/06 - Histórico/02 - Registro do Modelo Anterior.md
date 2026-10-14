@@ -56,7 +56,9 @@ Quatro buyer personas, construídas sobre origem profissional, faixa etária, re
 | **Overpass** | Back-end / Assinatura | R$180/mês · 12x R$149 anual · R$1.500 à vista |
 | **Vanguarda** | High-end / Mentoria | R$12.000 ou 12x R$1.000; especial R$9.000 ou 12x R$750; semestral R$6.000 nunca testado |
 
-**Os preços continuam sendo registro factual do que foi praticado.** O que mudou é o enquadramento: Atlas não é definido por ser barato, Overpass não é biblioteca, Vanguarda não é apenas mentoria. A tabela de preços vigente é responsabilidade da operação comercial, não deste registro histórico.
+**Os preços continuam sendo registro factual do que foi praticado.** O que mudou é o enquadramento: Atlas não é definido por ser barato, Overpass não é biblioteca, Vanguarda não é apenas mentoria. A tabela de preços vigente é responsabilidade da operação comercial, não deste registro histórico: desde 08/10/2026, ela está na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial).
+
+O valor especial de R$ 9.000 aparece na Política Comercial como referência histórica promocional, e não como preço vigente nem piso. A qual oferta ele pertencia não está confirmado. <dado q="D" nota="Origem a confirmar." />
 
 ---
 

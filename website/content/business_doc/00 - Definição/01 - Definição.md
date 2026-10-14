@@ -74,7 +74,7 @@ Grande parte da base de conhecimento da Overlens foi construída no fim de 2025 
 | :---- | :---- |
 | **Overview** | Executive Overview, Visão, Missão e Business Thesis. |
 | **Modelos** | Business Model Canvas, Lean Canvas e o ponteiro do Value Proposition Canvas. |
-| **Arquitetura** | Produtos e serviços, receita, jornada macro e flywheel. |
+| **Arquitetura** | Produtos e serviços, receita, jornada macro, flywheel e política de instrutoria, palestras e ativos de marca. |
 | **Estratégia** | Moats, apostas estratégicas, princípios de negócio e riscos. |
 | **Pesquisa** | Research & Market Intelligence. |
 | **Histórico** | Evolução da empresa e registro do modelo anterior. |

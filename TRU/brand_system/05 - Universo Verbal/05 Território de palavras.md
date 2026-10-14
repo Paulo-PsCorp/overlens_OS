@@ -162,6 +162,12 @@ A identidade verbal de uma marca se define tanto pelo que diz quanto pelo que se
 | **Guru, mestre, método infalível** | Transfere a autoria do resultado para quem ensina | *Professor, referência, método testável* |
 | **6 em 7, faça como eu fiz** | Promessa de resultado replicável que ignora contexto e risco | *O que foi construído, em quanto tempo e a que custo* |
 | **Aluno (como identidade)** | Reduz uma pessoa à condição transacional de quem compra um curso | *Atom, membro da comunidade, quem constrói aqui* |
+| **Em um mundo cada vez mais, no cenário atual** | Abertura genérica que serve a qualquer empresa | *Comece pelo fato ou pela cena concreta* |
+| **Jornada transformadora, desbloquear potencial, elevar a outro nível** | Promessa vaga, sem conteúdo verificável | *Descreva o que a pessoa faz e o que muda* |
+| **Insights valiosos, mergulhar profundamente, sem precedentes** | Clichês que simulam profundidade | *Diga qual é a descoberta* |
+| **Incrível, poderoso, revolucionário (sem demonstração)** | Adjetivo no lugar de prova | *Mostre o que torna aquilo relevante* |
+
+As quatro últimas linhas vêm da lista de vícios de vocabulário do [Guia Rápido de Escrita](/estudio/07-guia-de-escrita/01-guia-rapido-de-escrita), que também trata dos vícios de estrutura e de tom (travessões, fórmulas como "não é X, é Y", tríades artificiais, emojis decorativos). <dado q="B" nota="O guia é uma minuta (V1, 10/10/2026)." />
 
 ---
 

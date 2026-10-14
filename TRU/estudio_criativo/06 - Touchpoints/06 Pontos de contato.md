@@ -78,7 +78,7 @@ A pessoa ainda não sabe que precisa da Overlens. Talvez nem saiba que precisa d
 
 | Dimensão | Diretriz |
 |----------|----------|
-| **Canal e formato** | Instagram; Reels (5-60s), carrosséis (4-10 slides), stories com CTA |
+| **Canal e formato** | Instagram; Reels (5-60s), carrosséis (4-10 slides), stories (no máximo um próximo passo por sequência) |
 | **Tom predominante** | 35% Provocativa, 25% Científica, 25% Inspiradora, 15% Profunda |
 | **Persona sintética ativa** | Nenhuma diretamente. Voz institucional da Overlens. D.U.D pode aparecer em stories de reflexão |
 | **Modo predominante** | Majoritariamente Operante; quem já executa dentro de estruturas dadas e ainda não conectou isso a uma ideia própria |
@@ -86,12 +86,12 @@ A pessoa ainda não sabe que precisa da Overlens. Talvez nem saiba que precisa d
 
 **Diretrizes de experiência:**
 - **Os primeiros 5 segundos definem tudo.** Headline + imagem precisam ser milimetricamente calibrados. O dedo que desliza é mais rápido do que qualquer argumento.
-- **Enquadramento > conteúdo.** Não publicar "conteúdo com cara de conteúdo". Reembalar como informação valiosa demais para ser ignorada. A diferença entre "5 dicas de rotina" e "o método que virou padrão entre quem produz em alto nível" é a diferença entre ser ignorado e ser compartilhado.
+- **Enquadramento > conteúdo.** Não publicar "conteúdo com cara de conteúdo". Reembalar como informação que muda uma decisão do leitor. A diferença entre "5 dicas de rotina" e "o método de rotina que [quem] adotou depois de [fato verificável], e o que ele resolve" é a diferença entre ser ignorado e ser compartilhado. O enquadramento ganha força pela informação, nunca por sugerir que o leitor ficou para trás.
 - **Otimizar para compartilhamento.** O efeito de rede é o motor. Pessoas compartilham o que as impressiona ou o que diz algo que elas querem dizer.
-- **CTA para seguir a página ou comentar.** Materiais gratuitos via DM (Manychat) em troca de comentário orgânico. Sem palavra-chave específica; queremos conversa, não robô.
+- **CTA quando servir à peça.** Convidar a seguir a página, comentar ou abrir um material entra quando ajuda naquele contexto; informação útil pode terminar sem pedido. Materiais gratuitos via DM (Manychat) são entregues a quem pediu, sem exigir follow, marcação de outras pessoas nem cadastro em outras comunicações. Sem palavra-chave específica; queremos conversa, não robô. Ver o [Guia Rápido de Escrita](/estudio/07-guia-de-escrita/01-guia-rapido-de-escrita). <dado q="B" />
 - **Guardrails:** sem FOMO, sem "últimas vagas" falsas, sem sensacionalismo. Provocação inteligente, nunca polêmica barata.
 
-Para diretrizes detalhadas de produção no Instagram, consulte a página **Instagram** do Brand System (seção 18; Touchpoints). Este documento não repete; complementa.
+Para diretrizes detalhadas de produção no Instagram, consulte a página **Instagram** do Brand System (seção 18; Touchpoints). Este documento não repete; complementa. A escrita de legendas, Stories, comentários e Direct segue o [Guia Rápido de Escrita](/estudio/07-guia-de-escrita/01-guia-rapido-de-escrita).
 
 **Métricas de sucesso:**
 - Compartilhamentos por post (principal indicador de valor percebido)
@@ -119,9 +119,9 @@ Para diretrizes detalhadas de produção no Instagram, consulte a página **Inst
 | **Objetivo** | Estabelecer autoridade e profundidade. Ser o lugar onde a reflexão tem espaço para se desenvolver |
 
 **Diretrizes de experiência:**
-- **Formato investigativo, não tutorial.** O YouTube da Overlens não ensina "como usar ferramenta X". Investiga "por que tanta gente boa fica presa em loops de execução e nunca coloca a própria ideia de pé".
-- **Thumbnails e títulos seguem a mesma lógica do Instagram:** provocar sem sensacionalizar. A pergunta retórica é a arma preferida.
-- **Vídeos longos são ensaios visuais**, não aulas. A estrutura segue: provocação → evidência → reflexão → convite à ação.
+- **Formato investigativo, não tutorial raso.** O YouTube da Overlens não se limita a ensinar "como usar ferramenta X"; demonstrações e passo a passo entram quando servem a uma investigação. Investiga "por que tanta gente boa fica presa em loops de execução e nunca coloca a própria ideia de pé".
+- **Thumbnails e títulos seguem a mesma lógica do Instagram:** provocar sem sensacionalizar. Uma pergunta pode abrir o vídeo quando o próprio vídeo a investiga.
+- **Vídeos longos são ensaios visuais e demonstrações.** A estrutura acompanha o assunto; provocação, evidência, reflexão e convite são recursos, não uma sequência obrigatória. <dado q="B" />
 - **Shorts funcionam como faíscas**; fragmentos densos que apontam para conteúdos mais profundos.
 
 **Métricas de sucesso:**
@@ -262,27 +262,55 @@ O empreendedor decidiu que quer fazer parte. Não por impulso, não por FOMO; po
 |----------|----------|
 | **Canal e formato** | E-mail marketing, DMs automatizadas via Manychat |
 | **Tom predominante** | 30% Inspiradora, 25% Profunda, 25% Provocativa, 20% Científica |
-| **Persona sintética ativa** | D.U.D em e-mails de cuidado, boas-vindas e retomada. T.R.U em instruções operacionais |
+| **Persona sintética ativa** | D.U.D e T.R.U podem orientar a produção (cuidado e instrução operacional), mas a assinatura é de quem escreve ou, em envio automático, da Equipe Overlens, do Suporte Overlens ou do assistente virtual da Overlens |
 | **Modo predominante** | Todos; segmentado por contexto e histórico da pessoa |
 | **Objetivo** | Manter o fio da conexão sem ser invasivo. Guiar sem empurrar |
 
 **Diretrizes de experiência:**
 - **DMs via Manychat seguem o tutorial operacional** (seção 18; Touchpoints). Templates padronizados, interação com comentários desabilitada para não soar robótico.
 - **E-mails não são newsletter genérica.** Cada e-mail tem uma intenção clara: cuidar, provocar, informar ou convidar. Nunca os quatro ao mesmo tempo.
-- **D.U.D pode assinar mensagens de retomada de jornada**; "Eu gravei essa parte... achei importante. Talvez você não veja valor agora, mas... bom, quis guardar mesmo assim."
-- **T.R.U assina instruções claras**; dados de acesso, prazos, orientações técnicas. Sem floreio.
+- **Escolha de canal, cadência e responsáveis seguem a [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens).** E-mail transacional (confirmação, acesso, mudança de estado) e e-mail comercial ou de relacionamento têm critérios distintos. <dado q="B" />
+- **Mensagens automáticas se identificam como da Overlens.** E-mails e DMs automatizados sem autor individual assinam como "Equipe Overlens" ou "Suporte Overlens"; quando uma automação conversa, ela se apresenta como assistente virtual da Overlens. D.U.D e T.R.U podem dar voz a peças narrativas e orientar a produção, mas não substituem essa identificação. Ver o [Guia Rápido de Escrita](/estudio/07-guia-de-escrita/01-guia-rapido-de-escrita). <dado q="B" />
+- **Instruções operacionais são claras**: dados de acesso, prazos, orientações técnicas. Sem floreio.
 - **Frequência controlada.** Mais silêncio do que ruído. A Overlens prefere enviar menos e ser lida a enviar mais e ser ignorada.
 
 **Métricas de sucesso:**
-- Taxa de abertura (indica relevância percebida do assunto)
+- O indicador principal depende do objetivo da mensagem (ver [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens), "Como avaliar os resultados"); abertura e clique são sinais intermediários. <dado q="B" />
+- Taxa de abertura, apenas como sinal auxiliar e nunca como métrica de sucesso principal: recursos de privacidade (Apple MPP) distorcem esse número; combine com respostas, cliques e ações concluídas. <dado q="B" />
 - Taxa de cliques (indica que o conteúdo interno cumpriu a promessa)
 - Taxa de descadastro (indicador inverso; alto descadastro = problema de frequência ou relevância)
 
 **Anti-padrões:**
 - Sequências de e-mail agressivas com contagem regressiva
 - DMs que soam como robô ("Olá! Obrigado por comentar! Confira nosso link!")
-- Enviar material para quem não segue a página sem pedir o follow primeiro
+- Condicionar a entrega de um material pedido a follow, marcação de outras pessoas ou cadastro em outras comunicações
 - E-mails sem personalidade; genéricos, intercambiáveis
+
+---
+
+#### WhatsApp; Grupo e Individual
+
+| Dimensão | Diretriz |
+|----------|----------|
+| **Canal e formato** | WhatsApp em grupo (comunicados gerais, comunidade, conteúdos e lembretes) e WhatsApp individual (contato contextualizado: comparecimento, suporte, recuperação) |
+| **Tom predominante** | Próximo, curto e escaneável, conforme o Guia Rápido de Escrita para cada formato |
+| **Persona sintética ativa** | Nenhuma como remetente. Quem envia se apresenta pelo próprio nome; automação se identifica como Equipe Overlens ou assistente virtual da Overlens |
+| **Modo predominante** | Todos; segmentado por contexto e histórico da pessoa |
+| **Objetivo** | Avisar sem interromper e resolver uma questão por vez. O contato individual só existe quando há um motivo identificável |
+
+**Diretrizes de experiência:**
+- **Quando usar cada formato, para quem, com que cadência e sob responsabilidade de quem é definido na [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens).** Esta página não redefine essas regras; apenas situa o WhatsApp entre os pontos de contato. <dado q="B" />
+- **Como escrever no grupo e no individual está no [Guia Rápido de Escrita](/estudio/07-guia-de-escrita/01-guia-rapido-de-escrita)**, incluindo a identificação de quem envia e o tratamento de pedidos de saída. <dado q="B" />
+- **O grupo é um canal, não a comunidade.** A comunidade é infraestrutura de aprendizagem e realização; o grupo de WhatsApp é um dos lugares por onde ela recebe avisos.
+- **Frequência controlada.** Vale aqui o mesmo princípio do e-mail: mais silêncio do que ruído, e a decisão de não enviar também é uma decisão.
+
+**Métricas de sucesso:**
+- O indicador corresponde ao objetivo de cada mensagem (comparecimento, dúvida resolvida, compra retomada), conforme a Política de Mensagens. Mensagem enviada ou entregue não é, por si, mensagem bem-sucedida. <dado q="B" />
+
+**Anti-padrões:**
+- Avisos genéricos disparados individualmente para toda a base
+- Assinar em nome de outra pessoa, inclusive quando a mensagem foi aprovada por ela
+- Urgência em caixa alta e emojis de alarme ("ATENÇÃO", "IMPERDÍVEL")
 
 ---
 
@@ -448,7 +476,8 @@ Quem chega aqui não precisa mais da Overlens para construir. Precisa de um ecos
 | Consideração | Site institucional | T.R.U + D.U.D | Operante, Convergente | Converter curiosidade em confiança |
 | Consideração | Materiais gratuitos (Gumroad) | T.R.U / D.U.D | Operante, Convergente | Demonstrar valor real |
 | Entrada | Landing pages de produto | Institucional | Convergente | Transformar interesse em ação |
-| Entrada | E-mail / DM (Manychat) | D.U.D (cuidado) / T.R.U (operacional) | Todos (segmentado) | Guiar sem empurrar |
+| Entrada | E-mail / DM (Manychat) | Quem escreve assina; automação como Equipe Overlens, Suporte Overlens ou assistente virtual | Todos (segmentado) | Guiar sem empurrar |
+| Entrada | WhatsApp (grupo e individual) | Quem escreve assina; automação como Equipe Overlens ou assistente virtual | Todos (segmentado) | Avisar sem interromper; individual só com contexto |
 | Profundidade | Plataforma e trilhas | D.U.D + T.R.U | Convergente, Emergente | Transformar conhecimento em capacidade |
 | Profundidade | Comunidade | D.U.D + T.R.U | Todos | Infraestrutura de troca entre Atoms |
 | Profundidade | Vanguarda (mentoria) | Voz humana | Emergente, Convergente | Acelerar o que já existe |
@@ -490,8 +519,19 @@ Independentemente do canal, estes comportamentos são inegociáveis:
 | Prometer transformação sem custo | O preço de fazer parte é explícito; escondê-lo é desonestidade |
 | Infantilizar o empreendedor | "Diquinhas", "projetinho", diminutivos condescendentes |
 | Ignorar feedback negativo | A coragem que exigimos de quem constrói, exigimos de nós mesmos |
-| Automatizar sem personalidade | Automação deve soar como D.U.D ou T.R.U, nunca como robô genérico |
+| Automatizar sem personalidade | Automação se identifica como Equipe Overlens, Suporte Overlens ou assistente virtual da Overlens, com texto natural e nunca robótico |
 
 ---
 
 Cada ponto de contato é um microcosmo da marca inteira. A Overlens não se constrói em campanhas; se constrói em cada interação, cada mensagem, cada silêncio intencional. O sistema vivo só funciona quando todas as partes respiram com a mesma intenção: devolver às pessoas a autonomia de construir suas próprias realidades.
+
+---
+
+## Histórico
+
+Versões anteriores desta página registravam regras que deixaram de valer com o [Guia Rápido de Escrita](/estudio/07-guia-de-escrita/01-guia-rapido-de-escrita):
+
+- D.U.D assinava mensagens de retomada de jornada ("Eu gravei essa parte... achei importante. Talvez você não veja valor agora, mas... bom, quis guardar mesmo assim.") e T.R.U assinava instruções operacionais; a tabela de anti-padrões pedia que toda automação soasse como D.U.D ou T.R.U. Hoje, mensagens automáticas assinam como Overlens. <dado q="D" />
+- No Instagram, todo post levava CTA para seguir a página ou comentar, e o envio de material pela DM era condicionado ao follow (entregar material a quem não seguia a página era tratado como anti-padrão). <dado q="D" />
+- O mapa não incluía o WhatsApp como ponto de contato. <dado q="D" />
+- A taxa de abertura aparecia como métrica de sucesso do e-mail, lida como "relevância percebida do assunto"; no YouTube, a pergunta retórica era "a arma preferida" e os vídeos longos seguiam a sequência fixa provocação, evidência, reflexão e convite à ação. <dado q="D" />

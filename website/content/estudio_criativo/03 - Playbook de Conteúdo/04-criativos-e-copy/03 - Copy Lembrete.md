@@ -1,12 +1,12 @@
 ---
 title: Copy - Lembrete
-summary: "Define copy de lembrete como urgência organizada (não insistência emocional): recolocar o compromisso, tornar o prazo concreto e reduzir procrastinação com prazo, consequência e ação imediata. Vale para datas reais em campanha e para follow-up em operação contínua."
+summary: "Define copy de lembrete como urgência organizada (não insistência emocional): recolocar o compromisso, tornar o prazo concreto e reduzir procrastinação com prazo, consequência e ação imediata. Vale para datas reais em campanha e para follow-up em operação contínua. Canal, momento e público de cada lembrete seguem a Política de Mensagens."
 topics: [copy, lembrete, urgência real, prazo, decisão, follow-up]
-keywords: [lembrete, urgência organizada, prazo, consequência, ação imediata, decisão, fricção, prioridade, ciclo de campanha, follow-up, recuperação de leads, escassez real]
+keywords: [lembrete, urgência organizada, prazo, consequência, ação imediata, decisão, fricção, prioridade, ciclo de campanha, follow-up, recuperação de leads, escassez real, política de mensagens, lembrete de live, guia rápido de escrita]
 priority: medium
 ai_when_to_use: |
-  Use quando o usuário for escrever copy de lembrete para reativar leads que já conhecem o produto/evento, precisar comunicar prazo final ou últimas vagas, ou quiser transformar intenção acumulada em execução.
-related: []
+  Use quando o usuário for escrever copy de lembrete para reativar leads que já conhecem o produto/evento, precisar comunicar um prazo final real ou um limite de vagas que existe de fato, ou quiser transformar intenção acumulada em execução.
+related: [growth_system/04 - Operação Comercial/37 - Política de Mensagens, estudio_criativo/07 - Guia de Escrita/01 Guia Rápido de Escrita, estudio_criativo/03 - Playbook de Conteúdo/04-criativos-e-copy/04 - Copy Carrinho Aberto]
 ---
 
 # Copy - Lembrete
@@ -54,6 +54,11 @@ Com a migração para aquisição e vendas contínuas, lembrete deixa de ser uma
 **O que muda em operação contínua:**
 
 * **Produtos perpétuos não têm prazo e, por isso, não pedem lembrete de prazo.** Para eles, a peça equivalente é o **follow-up**: retomar a conversa onde ela parou, responder a objeção que ficou pendente, mostrar o que mudou desde o último contato. A função continua sendo reduzir fricção, não criar pressão.
-* **Recuperação de leads substitui a contagem regressiva.** Quem demonstrou interesse e não avançou merece uma retomada honesta (“você olhou isso em março; desde então mudou X”), não um alarme.
+* **Recuperação de leads substitui a contagem regressiva.** Quem demonstrou interesse e não avançou merece uma retomada honesta (“você pediu informações sobre isso em março; desde então mudou X”), apoiada em um contato real e não em rastreamento de visualização, nunca um alarme. <dado q="B" nota="Conforme o Guia Rápido de Escrita: nomear o contexto sem insinuar vigilância." />
 * **A consequência precisa ser verificável.** Em ciclo, a consequência era o fechamento. Em operação contínua, é a capacidade real: turma com tamanho definido, agenda de mentoria com limite humano, encontro com data fixa. Se não existe consequência real, não existe lembrete: existe outro tipo de peça.
-* **Frequência é uma decisão de relacionamento.** Sem o fim do carrinho como freio natural, o excesso de lembretes passa a ser o risco principal. Mais silêncio do que ruído.
+* **Frequência é uma decisão de relacionamento.** Sem o fim do carrinho como freio natural, o excesso de lembretes passa a ser o risco principal. Mais silêncio do que ruído. Canal, momento e público de cada lembrete seguem a [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens). <dado q="B" />
+* **Lembretes de live ainda não têm intervalo oficial.** A Política de Mensagens registra duas hipóteses para teste: aviso no grupo 5 min antes e mensagem individual para inscritos ausentes 10 a 15 min depois do início, ou aviso entre 5 e 10 min antes e mensagem individual entre 15 e 20 min depois. Nenhuma das duas é cadência oficial. <dado q="C" nota="A própria minuta traz os dois intervalos; falta decidir qual será testado." />
+
+## Histórico
+
+O exemplo anterior de retomada era “você olhou isso em março; desde então mudou X”. Foi trocado porque expunha o rastreamento de visualização, o que o Guia Rápido de Escrita pede para evitar. <dado q="D" />

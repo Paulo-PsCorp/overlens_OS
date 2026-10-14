@@ -29,7 +29,7 @@ Extrair por frequência e relevância:
 
 **Expressões recorrentes**:
 - Frases que se repetem em múltiplas seções
-- Padrões sintáticos (ex: "não é X, é Y"; "mais do que X, é Y")
+- Padrões sintáticos (ex: "não é X, é Y"; "mais do que X, é Y"). Conte-os, mas classifique essas fórmulas como **vícios a não replicar**, conforme o Guia Rápido de Escrita (`website/content/estudio_criativo/07 - Guia de Escrita/01 Guia Rápido de Escrita.md`), mesmo quando forem frequentes na base legada
 - Aberturas de parágrafo recorrentes
 - Fechamentos de seção recorrentes
 
@@ -56,9 +56,9 @@ Analisar a mecânica da escrita:
 
 **Figuras de linguagem favoritas**:
 - Metáforas recorrentes (e de que campos semânticos vêm)
-- Contrastes e paradoxos (marca registrada?)
+- Contrastes e paradoxos (frequência; contraste forçado é vício a não replicar, não marca registrada)
 - Perguntas retóricas (frequência e posição)
-- Enumerações (tríades? pares?)
+- Enumerações (tríades? pares?; tríade artificial é vício a não replicar)
 
 **Ritmo**:
 - A escrita é mais fluida ou mais entrecortada?
@@ -150,4 +150,4 @@ Salve em: `[EXTRACAO] DNA Verbal da Overlens.md`
 - Ser quantitativo quando possível (frequências, proporções, médias)
 - Distinguir padrão consciente (intencional) de acidente (ocorrência isolada)
 - O output deve ser ACIONÁVEL: alguém lendo deve conseguir escrever no tom
-- Separar sempre **padrão de forma** (replicável) de **conteúdo legado** (a não replicar). Não inventar personas nem conceitos que não estejam em `.claude/rules/tese-atual.md`
+- Separar sempre **padrão de forma** (replicável) de **conteúdo legado** (a não replicar). O Guia de Replicação nunca recomenda travessões nem os vícios listados no Guia Rápido de Escrita. Não inventar personas nem conceitos que não estejam em `.claude/rules/tese-atual.md`

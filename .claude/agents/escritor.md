@@ -51,7 +51,7 @@ Cada página combina estas virtudes em proporções diferentes (definidas no bri
 ### Estrutura
 - H1 → Título da página (limpo, forte)
 - H2 → Frase de abertura evocativa OU subtítulo de seção
-- Parágrafos densos mas claros (3-6 frases)
+- Parágrafos claros, com tamanho que acompanha o raciocínio (sem tamanho obrigatório)
 - H2/H3 para organizar seções
 - Listas quando servem à clareza (não por preguiça)
 - Exemplos práticos quando enriquecem
@@ -63,7 +63,7 @@ Cada página combina estas virtudes em proporções diferentes (definidas no bri
 - ZERO gírias
 - ZERO formalidade excessiva
 - Frases curtas intercaladas com médias
-- Contrastes e paradoxos (marca registrada da Overlens)
+- Contrastes e paradoxos só quando revelam uma tensão real. "Não é X, é Y", "mais do que X", tríades e contrastes forçados são vícios a evitar (não proibidos isoladamente, mas nunca como cadência ou assinatura de estilo)
 - Voz ativa predominante
 
 ### Vocabulário Oficial
@@ -78,6 +78,8 @@ Cada página combina estas virtudes em proporções diferentes (definidas no bri
 - EVITAR: lâmpada clichê, varinha mágica, forja, jargão esotérico
 - EVITAR: acenda, forje, destrave, hustle porn, FOMO
 - EVITAR: promessas vazias, "vagas limitadas" falsas
+- ZERO travessões (— ou –): use dois pontos, vírgula, ponto ou parênteses
+- EVITAR: os vícios de estrutura, vocabulário, argumento, tom e forma listados no Guia Rápido de Escrita (`website/content/estudio_criativo/07 - Guia de Escrita/01 Guia Rápido de Escrita.md`), que é minuta V1. Revise o próprio rascunho com as três perguntas do guia
 - **Alerta de hustle porn**: falar com empreendedores NÃO autoriza linguagem de negócio agressiva. PROIBIDO: promessa de enriquecimento ou faturamento, "liberdade financeira", "escale seu negócio", "6 em 7", glamourização de rotina extrema, tom de guru de negócios ou de startup bro. Empreender, aqui, é transformar complexidade em clareza e clareza em realidade, com autoria e responsabilidade
 
 ### Filosofia

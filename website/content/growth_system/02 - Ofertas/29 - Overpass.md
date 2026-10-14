@@ -2,11 +2,11 @@
 title: Overpass
 summary: "Overpass é a camada contínua do ecossistema Overlens: o ambiente em que o Atom desenvolve capacidades continuamente. Esta página trata de posicionamento da oferta, argumento de permanência e jornada de compra; a definição da oferta pertence ao Business Document."
 topics: [overpass, camada contínua, assinatura, permanência, jornada de compra, posicionamento de oferta]
-keywords: [overpass, camada contínua, assinatura, project based learning, pbl, projetos, evidências, comunidade, progresso, competências, atom, argumento de permanência, ficha técnica]
+keywords: [overpass, camada contínua, assinatura, piso R$ 1.800, overpass empresarial, licenças, bronze, prata, ouro, black pass, upgrade, política comercial, project based learning, pbl, projetos, evidências, comunidade, progresso, competências, atom, argumento de permanência, ficha técnica]
 priority: high
 ai_when_to_use: |
-  Use quando o usuário perguntar sobre o Overpass, como posicionar e vender a camada contínua da Overlens, qual o argumento de permanência da assinatura, como alguém decide assinar e por que continua, histórico de preços praticados, ou como o Overpass se relaciona com Atlas e Vanguarda.
-related: [growth_system/02 - Ofertas/23 - Ofertas, growth_system/02 - Ofertas/28 - Atlas, growth_system/02 - Ofertas/30 - Vanguarda]
+  Use quando o usuário perguntar sobre o Overpass, como posicionar e vender a camada contínua da Overlens, qual o argumento de permanência da assinatura, como alguém decide assinar e por que continua, piso vigente e Overpass Empresarial (resumo, com a regra completa na Política Comercial), histórico de preços praticados, ou como o Overpass se relaciona com Atlas e Vanguarda.
+related: [growth_system/02 - Ofertas/23 - Ofertas, growth_system/02 - Ofertas/28 - Atlas, growth_system/02 - Ofertas/30 - Vanguarda, growth_system/04 - Operação Comercial/35 - Política Comercial, growth_system/04 - Operação Comercial/36 - Responsabilidades Comerciais]
 ---
 # Overpass
 
@@ -82,13 +82,21 @@ O processo comercial que sustenta assinatura contínua (recuperação, follow-up
 | **Website** | Página principal (Toque aqui para acessar) |
 | **Tipo de produto** | Assinatura. Classificado como "Back-end / Assinatura" e descrito como biblioteca educacional. <dado q="D" /> |
 | **GTM** | Product Led Growth / 2 Stage. Em revisão com a migração para operação contínua. <dado q="D" /> |
-| **Preço praticado** <dado q="D" /> | R$180/mês (R$2.160 em 12 meses) |
-|  | 12x R$149 no cartão (R$1.788/ano) |
-|  | R$1.500 à vista no pix |
+| **Piso vigente** | Individual e grupos de 1 a 9 pessoas: R$ 1.800 por pessoa, desde 06/10/2026. <dado q="A" /> |
+| **Overpass Empresarial** | A partir de 10 licenças, com compromisso de 12 meses: Bronze (10 a 15) R$ 1.728, Prata (16 a 30) R$ 1.512 e Ouro (31 a 60) R$ 1.296 por licença ao ano; 61 ou mais sob proposta. <dado q="A" /> |
 | **Duração** | Assinatura mensal, semestral ou anual |
 | **Persona principal** | **Necessita revisão de persona.** As personas anteriores não devem ser usadas como verdade atual. |
 
-**Nota sobre preços.** Valores registrados como **praticados**, não como tabela vigente. Qualquer decisão de precificação precisa ser revalidada.
+**Nota sobre preços.** Esta ficha traz só o resumo. Pisos, faixas e benefícios do Overpass Empresarial, comissão de indicação e o crédito do Overpass e do Black Pass no upgrade para a Vanguarda estão na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial). Em caso de divergência, vale a Política Comercial. Mensal, descontos por modalidade e cobrança do Overpass individual seguem pendentes. <dado q="E" />
+
+### Histórico de preços
+
+Valores praticados antes das decisões de 06/10/2026. Servem para ler contratos antigos; **não são autorizados para novas vendas** quando ficam abaixo do piso vigente.
+
+- R$180/mês (R$2.160 em 12 meses). É também a referência anual sobre a qual incidem as faixas do Overpass Empresarial. <dado q="D" />
+- 12x R$149 no cartão (R$1.788/ano), abaixo do piso vigente de R$ 1.800. <dado q="D" />
+- R$1.500 à vista no pix, abaixo do piso vigente de R$ 1.800. <dado q="D" />
+- Simulações de grupo a R$ 1.300 e R$ 1.160 por pessoa: nunca autorizadas. <dado q="D" />
 
 ## O que mudou em relação à documentação anterior
 
@@ -104,7 +112,7 @@ O processo comercial que sustenta assinatura contínua (recuperação, follow-up
 
 1. Como a permanência passa a ser observada (projeto ativo, progresso, evidência) e o que a comunicação promete a partir disso. <dado q="E" />
 2. Qual é a passagem desenhada entre Atlas e Overpass. <dado q="E" />
-3. Se existem níveis ou modalidades de assinatura. <dado q="E" />
+3. Modalidades do Overpass individual (mensal, descontos por modalidade, cobrança). A modalidade empresarial, a partir de 10 licenças, já tem faixas e benefícios aprovados na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial). <dado q="E" />
 4. Como se comunica a redefinição para quem assinou sob o argumento anterior. <dado q="E" />
 
 Leia o [Manual do Overpass](https://docs.google.com/document/d/1jguC-WLBlyvQf3jwQc-NQex90MmfzcryUMA9CokUUaQ/edit?tab=t.0) para mais informações.

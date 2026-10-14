@@ -70,7 +70,7 @@ Cada aposta abaixo registra: o que se está apostando, por que, o que precisaria
 
 ## Aposta 6 · Serviços e expansão B2B
 
-**O que apostamos:** que a Overlens pode atuar diretamente sobre negócios e empresas, e não apenas sobre pessoas. <dado q="B" nota="Assessoria, já validada comercialmente." /> <dado q="C" nota="Consultoria e B2B." />
+**O que apostamos:** que a Overlens pode atuar diretamente sobre negócios e empresas, e não apenas sobre pessoas. <dado q="B" nota="Assessoria, já validada comercialmente; B2B com ofertas de regra comercial aprovada (Overpass Empresarial, Workshops de IA, AI Build), demanda ainda não medida." /> <dado q="C" nota="Consultoria." />
 
 **Por quê:** ticket maior, relação mais longa e aprendizado real que retroalimenta método e conteúdo.
 

@@ -1,12 +1,12 @@
 ---
 title: Arquitetura de Produtos e Serviços
-summary: "Mapa das ofertas da Overlens com o status de cada uma: Atlas, Overpass e Vanguarda como ofertas ativas em redefinição, assessoria validada comercialmente, e consultoria, B2B, incubação, eventos e produtos físicos como frentes em construção ou hipótese. Explica o espectro Aprender → Construir → Acelerar, a relação entre as ofertas e as cinco decisões em aberto."
+summary: "Mapa das ofertas da Overlens com o status de cada uma: Atlas, Overpass e Vanguarda como ofertas ativas em redefinição, assessoria validada comercialmente, B2B em validação com ofertas de regra comercial aprovada (Overpass Empresarial, Workshops de IA e AI Build), e consultoria, incubação, eventos e produtos físicos como frentes em construção ou hipótese. Explica o espectro Aprender → Construir → Acelerar, a relação entre as ofertas e as seis decisões em aberto."
 topics: [arquitetura de ofertas, produtos, serviços, status de maturidade, espectro de entrega, decisões em aberto]
-keywords: [Atlas, Overpass, Vanguarda, assessoria, consultoria, B2B, incubação, aceleração, eventos, hackathon, Atom Praxis, produtos físicos, artefatos de pertencimento, Aprender Construir Acelerar, Atom, PBL, camada contínua, ativação]
+keywords: [Atlas, Overpass, Vanguarda, assessoria, consultoria, B2B, Overpass Empresarial, Workshops de IA, AI Build, Política Comercial, Política de Instrutoria, incubação, aceleração, eventos, hackathon, Atom Praxis, produtos físicos, artefatos de pertencimento, Aprender Construir Acelerar, Atom, PBL, camada contínua, ativação]
 priority: high
 ai_when_to_use: |
   Use quando o usuário perguntar quais ofertas a Overlens tem, o que é Atlas, Overpass, Vanguarda, assessoria, consultoria, incubação ou B2B, como as ofertas se relacionam, ou qual o status de maturidade de cada frente. É a fonte de verdade sobre o enquadramento estratégico das ofertas. O funcionamento interno de cada produto pertence ao Product System.
-related: ["business_doc/03 - Arquitetura/02 - Arquitetura de Receita.md", "business_doc/03 - Arquitetura/03 - Customer Journey Macro.md", "business_doc/04 - Estratégia/02 - Strategic Bets.md", "business_doc/06 - Histórico/02 - Registro do Modelo Anterior.md"]
+related: ["business_doc/03 - Arquitetura/02 - Arquitetura de Receita.md", "business_doc/03 - Arquitetura/03 - Customer Journey Macro.md", "business_doc/04 - Estratégia/02 - Strategic Bets.md", "business_doc/06 - Histórico/02 - Registro do Modelo Anterior.md", "business_doc/03 - Arquitetura/05 - Política de Instrutoria, Palestras e Ativos de Marca.md", "growth_system/04 - Operação Comercial/35 - Política Comercial.md", "growth_system/04 - Operação Comercial/36 - Responsabilidades Comerciais.md"]
 ---
 # Arquitetura de Produtos e Serviços
 
@@ -33,7 +33,7 @@ Não é obrigatório usar esses termos literalmente na comunicação pública. E
 | **Vanguarda** | Aceleração | Programa de alta intensidade | <dado q="A" nota="Ativo, em redefinição." /> |
 | **Assessoria** | Serviços | Acompanhamento de negócio | <dado q="B" nota="Validada comercialmente." /> |
 | **Consultoria** | Serviços | Diagnóstico e estruturação | <dado q="C" nota="Fronteira não definida." /> |
-| **B2B** | Empresas | Workshops, treinamentos, programas | <dado q="C" nota="Sem oferta estruturada." /> |
+| **B2B** | Empresas | Overpass Empresarial, Workshops de IA e AI Build; demais programas sob proposta | <dado q="B" nota="Frente em validação; ofertas com regra comercial aprovada." /> |
 | **Incubação** | Aceleração | Acompanhamento de projetos iniciais | <dado q="B" nota="Frente em construção." /> |
 | **Eventos** | Transversal | Hackathons, imersões, encontros | <dado q="B" /> |
 | **Produtos físicos e artefatos** | Transversal | Objetos de pertencimento | <dado q="C" nota="Implementação em desenvolvimento." /> |
@@ -91,9 +91,21 @@ A nomenclatura comercial ainda pode mudar. Não cristalizar fronteiras contratua
 
 ## B2B
 
-A Overlens pode atuar diretamente com empresas: workshops, treinamentos, programas internos, inovação, IA, estratégia, desenvolvimento de equipes, capacitação e projetos especiais. <dado q="C" nota="Sem oferta estruturada." />
+A Overlens atua diretamente com empresas: workshops, treinamentos, programas internos, inovação, IA, estratégia, desenvolvimento de equipes, capacitação e projetos especiais. <dado q="B" nota="Frente em validação; demanda ainda não medida." />
 
-B2B deve ser entendido como **canal e frente de receita possível**, não como um produto único. Não há hoje oferta, preço nem processo comercial definidos para essa frente.
+B2B deve ser entendido como **canal e frente de receita**, não como um produto único. Desde outubro de 2026, três ofertas empresariais têm regra comercial aprovada:
+
+- **Overpass Empresarial:** a partir de 10 licenças, com compromisso de 12 meses e faixas Bronze, Prata, Ouro e Personalizada. <dado q="A" />
+- **Workshops de IA:** formatos de 4 e 8 horas, com preço cheio e piso de negociação. IA é o tema da entrega, não a categoria da Overlens. <dado q="A" />
+- **AI Build:** implementação guiada nas modalidades Pilot, Modular e Enterprise, precificada por escopo, sem tabela fixa. <dado q="A" />
+
+Esta página registra que essas ofertas existem; preços, faixas, pisos e condições estão na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial), e remuneração de instrutores e titularidade, na [Política de Instrutoria, Palestras e Ativos de Marca](/business/03-arquitetura/05-politica-de-instrutoria-palestras-e-ativos-de-marca). Workshops e AI Builds são produtos institucionais: contratação e faturamento pertencem à Overlens, mesmo quando o fundador ministra. Quem vende, entrega e renova está em [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais). <dado q="A" />
+
+A parceria empresarial Vanguarda segue em proposta, e treinamentos, programas internos e projetos especiais fora dessas três ofertas continuam sem oferta estruturada. <dado q="C" />
+
+Em qual frente o AI Build se enquadra, B2B ou Serviços, ainda não está decidido. <dado q="E" />
+
+**Histórico.** Até outubro de 2026, esta seção registrava B2B como **canal e frente de receita possível**, sem oferta, preço nem processo comercial definidos, com status de hipótese. <dado q="D" />
 
 ## Incubação
 
@@ -112,6 +124,8 @@ Experiências presenciais e online, hackathons, imersões e outros formatos. <da
 Hackathons não devem ser tratados apenas como eventos de comunidade. Podem funcionar como mecanismo estratégico de aprendizagem, colaboração, identificação de talentos, descoberta de projetos, experimentação, geração de portfólio, incubação e formação de times.
 
 O hackathon funciona como ponte entre **aprender → construir → demonstrar → continuar**, e projetos relevantes podem eventualmente avançar para incubação. **Atom Praxis** é o nome usado para iniciativas orientadas à prática, criação, experimentação e construção. Teve uso concreto no hackathon da comunidade, mas não deve ser assumido como sendo apenas um evento anual.
+
+Palestras do fundador em eventos próprios são entregas institucionais, sem cachê adicional automático (ver [Política de Instrutoria, Palestras e Ativos de Marca](/business/03-arquitetura/05-politica-de-instrutoria-palestras-e-ativos-de-marca)). <dado q="A" />
 
 ## Produtos físicos e artefatos
 
@@ -137,6 +151,7 @@ Duas ressalvas importantes:
 
 1. Quais frentes se tornam unidades de negócio com dono, meta e processo, e quais continuam como experimento.
 2. A fronteira comercial entre assessoria e consultoria.
-3. Se existe oferta B2B dedicada ou se B2B é apenas canal.
+3. Como as ofertas empresariais já aprovadas (Overpass Empresarial, Workshops de IA, AI Build) se organizam como frente: unidade com dono e meta ou canal das camadas existentes. <dado q="E" />
 4. Como incubação se relaciona com Vanguarda: camadas distintas ou continuação.
 5. Se a camada de artefatos é linha de receita ou mecanismo de pertencimento, ou ambos, e com que prioridade.
+6. Em qual frente o AI Build se enquadra: B2B ou Serviços. <dado q="E" />

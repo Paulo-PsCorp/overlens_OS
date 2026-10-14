@@ -6,7 +6,7 @@ keywords: [riscos, incertezas, base de conhecimento desatualizada, dispersão, p
 priority: medium
 ai_when_to_use: |
   Use quando o usuário perguntar o que pode dar errado na Overlens, quais riscos a transição criou, o que a companhia ainda não sabe, quais decisões estão bloqueadas por falta de dado, ou por qual ordem os problemas deveriam ser resolvidos. Nenhuma incerteza desta página deve ser preenchida com estimativa.
-related: ["business_doc/04 - Estratégia/02 - Strategic Bets.md", "business_doc/05 - Pesquisa/01 - Research e Market Intelligence.md", "business_doc/03 - Arquitetura/02 - Arquitetura de Receita.md", "brand_system/02 - Overview da Overlens/03 Cuidados e Riscos.md"]
+related: ["business_doc/04 - Estratégia/02 - Strategic Bets.md", "business_doc/05 - Pesquisa/01 - Research e Market Intelligence.md", "business_doc/03 - Arquitetura/02 - Arquitetura de Receita.md", "brand_system/02 - Overview da Overlens/03 Cuidados e Riscos.md", "business_doc/03 - Arquitetura/05 - Política de Instrutoria, Palestras e Ativos de Marca.md"]
 ---
 # Riscos e Incertezas
 
@@ -59,6 +59,8 @@ Parte da base atual chegou por IA, design e criatividade. O reenquadramento para
 A atenção, a autoridade e a entrega de topo concentram-se de forma significativa na marca pessoal do fundador. É força de aquisição e risco de concentração simultaneamente.
 
 **Mitigação parcial:** experts, proxies e base documental. Nenhuma delas substitui a voz na camada de atenção, que é onde a concentração é maior.
+
+No plano comercial, a [Política de Instrutoria, Palestras e Ativos de Marca](/business/03-arquitetura/05-politica-de-instrutoria-palestras-e-ativos-de-marca) separa receita institucional (workshops e AI Builds, mesmo quando o fundador ministra) de negócios da marca pessoal. Isso torna a concentração mensurável, mas não a reduz na camada de atenção. <dado q="A" />
 
 ### E2 · Capacidade sênior disputada entre frentes
 

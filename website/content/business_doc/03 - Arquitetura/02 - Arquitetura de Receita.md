@@ -1,12 +1,12 @@
 ---
 title: Arquitetura de Receita
-summary: Separa receita existente (programas de entrada, assinatura, aceleração e assessoria) de receita experimental (consultoria, B2B, eventos, incubação e produtos físicos), explica a consequência econômica da redefinição do Overpass, registra a migração de lançamentos para vendas contínuas, os quatro riscos da arquitetura e os cinco pontos a resolver. Valores, tickets e margens permanecem pendentes.
+summary: "Separa receita existente (programas de entrada, assinatura, aceleração e assessoria) de B2B em validação (Overpass Empresarial, Workshops de IA e AI Build, com regra comercial aprovada) e de receita experimental (consultoria, eventos, incubação e produtos físicos), explica a consequência econômica da redefinição do Overpass, registra a migração de lançamentos para vendas contínuas, os quatro riscos da arquitetura e os seis pontos a resolver. Preços de tabela vigentes estão nas políticas comerciais; ticket líquido, margens e participação por frente permanecem pendentes."
 topics: [arquitetura de receita, captura de valor, receita recorrente, frentes experimentais, arquitetura comercial, riscos de dispersão]
-keywords: [receita, assinatura, Overpass, Atlas, Vanguarda, assessoria, consultoria, B2B, eventos, incubação, produtos físicos, receita recorrente, receita transacional, ticket, margem, CRM, vendas contínuas, lançamentos, dispersão, capacidade sênior, consolidação financeira]
+keywords: [receita, assinatura, Overpass, Atlas, Vanguarda, assessoria, consultoria, B2B, eventos, incubação, produtos físicos, receita recorrente, receita transacional, ticket, margem, preço de tabela, piso de negociação, Overpass Empresarial, Workshops de IA, AI Build, Política Comercial, CRM, vendas contínuas, lançamentos, dispersão, capacidade sênior, consolidação financeira]
 priority: high
 ai_when_to_use: |
-  Use quando o usuário perguntar como a Overlens ganha dinheiro, quais frentes já geram receita e quais ainda são experimento, o que muda com a redefinição da assinatura, ou quais riscos a multiplicidade de frentes cria. Não existem números consolidados nesta base: nenhum valor, ticket ou margem deve ser inferido a partir de documentos anteriores.
-related: ["business_doc/03 - Arquitetura/01 - Arquitetura de Produtos e Serviços.md", "business_doc/01 - Overview/04 - Business Thesis.md", "business_doc/04 - Estratégia/04 - Riscos e Incertezas.md", "growth_system/03 - Estratégia/34 - Arquitetura Comercial.md"]
+  Use quando o usuário perguntar como a Overlens ganha dinheiro, quais frentes já geram receita e quais ainda são experimento, o que muda com a redefinição da assinatura, ou quais riscos a multiplicidade de frentes cria. Preços de tabela e pisos vigentes estão na Política Comercial e na Política de Instrutoria, Palestras e Ativos de Marca. Não existem números consolidados de receita, ticket líquido ou margem nesta base: nenhum deve ser inferido a partir de documentos anteriores ou de preço de tabela.
+related: ["business_doc/03 - Arquitetura/01 - Arquitetura de Produtos e Serviços.md", "business_doc/01 - Overview/04 - Business Thesis.md", "business_doc/04 - Estratégia/04 - Riscos e Incertezas.md", "growth_system/03 - Estratégia/34 - Arquitetura Comercial.md", "business_doc/03 - Arquitetura/05 - Política de Instrutoria, Palestras e Ativos de Marca.md", "growth_system/04 - Operação Comercial/35 - Política Comercial.md", "growth_system/04 - Operação Comercial/36 - Responsabilidades Comerciais.md", "growth_system/04 - Operação Comercial/37 - Política de Mensagens.md"]
 ---
 # Arquitetura de Receita
 
@@ -23,12 +23,14 @@ A distinção mais importante desta página não é entre tipos de receita. É e
 | **Aceleração** (Vanguarda) | Programa de alta intensidade | Ciclo longo | **Existente** |
 | **Assessoria** | Serviço | Contrato continuado | **Existente**, em validação |
 | **Consultoria** | Serviço | Projeto | Experimental |
-| **B2B** | Contratos com empresas | Projeto ou programa | Experimental |
+| **B2B** | Contratos com empresas (Overpass Empresarial, Workshops de IA, AI Build) | Contrato de 12 meses, projeto ou programa | Em validação |
 | **Eventos** | Ingresso / participação | Pontual | Experimental |
 | **Incubação** | A definir | A definir | Experimental |
 | **Produtos físicos e artefatos** | Venda de produto | Pontual | Experimental |
 
-Valores, tickets, margens e participação de cada frente na receita total: Não existe consolidação financeira nesta base de conhecimento, e nenhum número deve ser inferido a partir de documentos anteriores sem revalidação. <dado q="E" />
+Preços de tabela e pisos de negociação vigentes (Vanguarda, Overpass, Overpass Empresarial e Workshops de IA) estão na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial); remuneração de instrutoria, na [Política de Instrutoria, Palestras e Ativos de Marca](/business/03-arquitetura/05-politica-de-instrutoria-palestras-e-ativos-de-marca). <dado q="A" />
+
+Ticket líquido, margens e participação de cada frente na receita total: não existe consolidação financeira nesta base de conhecimento. Preço de tabela não é margem nem receita líquida, e nenhum número deve ser inferido a partir de documentos anteriores sem revalidação. <dado q="E" />
 
 ## Receita existente
 
@@ -58,11 +60,13 @@ Muda a natureza da receita da companhia: deixa de ser apenas "receita de formaç
 
 ## Receita experimental
 
-Frentes abertas, ainda sem forma comercial definida. Documentadas como possibilidade, **não como plano**.
+Frentes abertas, sem receita consolidada e, na maioria, ainda sem forma comercial definida. Documentadas como possibilidade, **não como plano**.
 
 **Consultoria**: coexiste com assessoria, mas a fronteira comercial ainda não foi definida.
 
-**B2B**: canal e frente possível. Sem oferta, preço ou processo comercial estruturados.
+**B2B**: canal e frente de receita em validação, já com ofertas precificadas: Overpass Empresarial (faixas por número de licenças, contrato de 12 meses), Workshops de IA (preço cheio e piso) e AI Build (por escopo). A receita é institucional mesmo quando o fundador ministra. Regras e valores na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial) e na [Política de Instrutoria, Palestras e Ativos de Marca](/business/03-arquitetura/05-politica-de-instrutoria-palestras-e-ativos-de-marca). Volume, margem e participação na receita total ainda não foram medidos. <dado q="B" nota="Ofertas aprovadas; demanda e margem não medidas." />
+
+Até outubro de 2026, B2B era registrado aqui como frente sem oferta, preço ou processo comercial estruturados. <dado q="D" />
 
 **Eventos**: receita de ingresso e participação, com função simultânea de comunidade e aquisição.
 
@@ -88,7 +92,7 @@ A nova documentação comercial precisa comportar: aquisição contínua, vendas
 
 O princípio: **a Overlens deve ser documentada como uma empresa baseada em sistemas, e não em campanhas.**
 
-O detalhamento de funis, CRM, canais e processo comercial pertence ao **Growth System**.
+O detalhamento de funis, CRM, canais, processo comercial e responsabilidades por setor pertence ao **Growth System**. Parte dele já existe: [Arquitetura Comercial](/growth/03-estrategia/34-arquitetura-comercial), [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial), [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais) e [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens), esta última em minuta.
 
 ## Riscos desta arquitetura
 
@@ -107,3 +111,4 @@ O detalhamento de funis, CRM, canais e processo comercial pertence ao **Growth S
 3. Modelo de captura da incubação.
 4. Fronteira comercial entre assessoria e consultoria.
 5. Definição de se artefatos são receita, mecanismo de pertencimento, ou ambos.
+6. Pendências das políticas comerciais que afetam receita e margem: ticket líquido e margem mínima por produto; escopos, preços e margem dos AI Builds; piso e custos do workshop presencial. Ver [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial) e [Política de Instrutoria, Palestras e Ativos de Marca](/business/03-arquitetura/05-politica-de-instrutoria-palestras-e-ativos-de-marca). <dado q="E" />

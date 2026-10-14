@@ -2,11 +2,11 @@
 title: A base invisível da produção de conteúdo
 summary: Aplica os 5 níveis de consciência de Eugene Schwartz à comunicação Overlens e apresenta os quatro modos (Operante, Convergente, Emergente, Nexialista) como formas de agir observáveis no público. As personas Brunin, Tella, Ander e Lilly são registro histórico e necessitam revisão.
 topics: [níveis de consciência, quatro modos, eugene schwartz, diagnóstico, copy]
-keywords: [eugene schwartz, unaware, problem aware, solution aware, product aware, most aware, níveis de consciência, quatro modos, operante, convergente, emergente, nexialista, empreendedor, brunin, tella, ander, lilly, necessita revisão de persona]
+keywords: [eugene schwartz, unaware, problem aware, solution aware, product aware, most aware, níveis de consciência, quatro modos, operante, convergente, emergente, nexialista, empreendedor, brunin, tella, ander, lilly, necessita revisão de persona, hipótese de briefing, guia rápido de escrita]
 priority: high
 ai_when_to_use: |
   Use quando o usuário perguntar em que nível de consciência a pessoa está, precisar calibrar a mensagem ao estágio mental do empreendedor antes de escrever, ou quiser entender os quatro modos (Operante, Convergente, Emergente, Nexialista). As personas citadas aqui são históricas e necessitam revisão.
-related: []
+related: [estudio_criativo/07 - Guia de Escrita/01 Guia Rápido de Escrita]
 ---
 
 # A base invisível da produção de conteúdo
@@ -24,13 +24,15 @@ de consciência. Cada nível exige uma linguagem e abordagem diferentes na sua c
 
 * **Nível 4, Consciente do Produto (Product Aware):** a pessoa conhece sua oferta, mas está na fase de avaliar se realmente vale a pena, ainda há hesitação ou dúvidas. É o momento de reforçar benefícios, diferenciais, prova social e argumentos que diminuam objeções.
 
-* **Nível 5, Totalmente Consciente (Most Aware):** o cliente sabe que quer o que você oferece e está pronto para comprar, faltando apenas o incentivo ou gatilho final (oferta, urgência, garantia etc.).
+* **Nível 5, Totalmente Consciente (Most Aware):** o cliente sabe que quer o que você oferece e está pronto para comprar. A mensagem é uma proposta direta, com detalhes, condições verdadeiras e CTA. Urgência só entra quando o prazo é real; nunca se fabricam resultados, escassez ou depoimentos. <dado q="B" nota="Conforme o Guia Rápido de Escrita." />
 
 O ponto estratégico dos níveis de consciência é entender que **não existe uma única mensagem correta para todos**. A comunicação só funciona quando encontra a pessoa no estágio mental em que ela está.
 
 ## Os níveis na Overlens
 
-A Overlens parte de um princípio simples e inegociável: antes de escrever qualquer texto, definir qualquer oferta ou estruturar qualquer campanha, identificamos o estágio mental da pessoa em relação a problema, solução e produto. Isso significa entender não apenas o que a pessoa quer, mas o quanto ela já compreende, o quanto já tentou resolver e qual responsabilidade está preparada para assumir.
+A Overlens parte de um princípio simples: antes de escrever qualquer texto, definir qualquer oferta ou estruturar qualquer campanha, identificamos o estágio mental da pessoa em relação a problema, solução e produto. Isso significa entender não apenas o que a pessoa quer, mas o quanto ela já compreende, o quanto já tentou resolver e qual responsabilidade está preparada para assumir.
+
+O nível de consciência é uma hipótese de briefing, não uma classificação exata. Quando um agente escreve, ele pergunta ao usuário qual é o nível do público naquele contexto. Mensagens de confirmação continuam diretas em qualquer nível. A aplicação por canal está no [Guia Rápido de Escrita](/estudio/07-guia-de-escrita/01-guia-rapido-de-escrita). <dado q="B" />
 
 O público da Overlens é o **empreendedor**: quem tem uma ideia, ambição ou visão de futuro e quer transformá-la em realidade. O que o define é o estado, não a profissão: ele pode vir da engenharia, da arquitetura, da arte, do design, da pesquisa ou de nenhuma dessas origens. <dado q="A" />
 
@@ -89,3 +91,7 @@ Ander precisa de exposição orientada para romper o perfeccionismo e sustentar 
 Lilly precisa de ambiente e cadência para converter visão sistêmica em um ecossistema que opera sem ela.
 
 As quatro descrições acima permanecem como registro histórico e **necessitam revisão de persona**. A regra prática continua a mesma: encontrar a pessoa no ponto exato em que ela está, com o nível adequado de responsabilidade e profundidade, sem falar acima (confusão) nem abaixo (tédio). <dado q="D" />
+
+## Histórico
+
+A descrição anterior do Nível 5 dizia que ao cliente faltava "apenas o incentivo ou gatilho final (oferta, urgência, garantia etc.)", e o diagnóstico de consciência era apresentado como princípio "inegociável". A formulação foi ajustada ao Guia Rápido de Escrita, que trata a consciência como hipótese de briefing e só admite urgência real. <dado q="D" />

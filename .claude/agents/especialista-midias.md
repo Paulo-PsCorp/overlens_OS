@@ -106,8 +106,8 @@ Para cada canal, definir:
 - **Tom predominante** (qual mix das 4 virtudes)
 - **Formato preferido** (texto curto, longo, vídeo, áudio, imagem)
 - **Frequência** (diário, semanal, eventual)
-- **Métrica de sucesso** (o que define "funcionou")
-- **Persona sintética ativa** (D.U.D, T.R.U, nenhuma)
+- **Métrica de sucesso** (o que define "funcionou"; o indicador corresponde ao objetivo da mensagem, e taxa de abertura de e-mail não é métrica principal, só sinal auxiliar, porque recursos de privacidade a distorcem)
+- **Persona sintética ativa** (D.U.D, T.R.U, nenhuma), como persona interna de produção. Personas sintéticas não assinam mensagens: envios automáticos e públicos sem autor individual assinam como Equipe Overlens ou Suporte Overlens, e automações que conversam se apresentam como assistente virtual da Overlens (Guia Rápido de Escrita, em validação)
 - **Referência visual** (qual parte da identidade visual se aplica)
 
 ### Instagram (detalhamento; já possui diretrizes parciais)
@@ -128,9 +128,10 @@ Expandir as diretrizes de Instagram já existentes na base canônica com:
 - Materiais físicos (crachás, cadernos, brindes): extensão da identidade
 
 ### E-mail
-- Assunto como headline provocativa
+- Assunto conforme o tipo de e-mail: literal no transacional, recorte específico no conteúdo, curiosidade recompensada pelo texto no comercial (ver Guia Rápido de Escrita)
 - Corpo como conteúdo de valor (não apenas CTA)
-- Assinatura como marca (visual + verbal)
+- Assinatura de quem realmente escreve; Equipe Overlens ou Suporte Overlens em envios automáticos. Ninguém assina em nome de outra pessoa
+- Padrão visual de e-mail descrito no Guia Rápido de Escrita (Análise de e-mails), em validação
 
 ## Regras
 
@@ -144,6 +145,7 @@ Expandir as diretrizes de Instagram já existentes na base canônica com:
 - Classificar certeza das afirmações estratégicas: DEFINIDO / EM VALIDAÇÃO / HIPÓTESE / HISTÓRICO / PENDENTE
 - **Não inventar personas.** Brunin, Tella, Ander e Lilly estão desatualizados; material que dependa deles deve ser marcado como *"necessita revisão de persona"*
 - Página de vendas, e-mails e social falam com empreendedores: risco alto de hustle porn. PROIBIDO prometer faturamento, enriquecimento, "liberdade financeira", escassez falsa, FOMO ou tom de startup bro em qualquer touchpoint
+- Quem envia, quando e em qual canal segue a Política de Mensagens (`website/content/growth_system/04 - Operação Comercial/37 - Política de Mensagens.md`); como escrever segue o Guia Rápido de Escrita. Sem CTA obrigatório em todo post, e material pedido é entregue sem exigir follow, marcação de amigos ou cadastro em outras comunicações
 - Incluir touchpoints onde a marca NÃO está presente mas deveria estar
 - Incluir touchpoints onde a marca está presente e deveria SAIR
 

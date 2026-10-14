@@ -2,11 +2,11 @@
 title: Território de Palavras
 summary: Cartografa as 7 constelações semânticas da Overlens (Criação, Conhecimento, Sistemas, Autonomia, Transformação, Filosofia, Realização e Negócio), lista palavras que usamos vs. evitamos, define metáforas estruturais (Lente, Sistema Vivo, Fogo, Camadas) e quatro registros de intensidade.
 topics: [território semântico, constelações de palavras, metáforas estruturais, registros de intensidade, palavras evitadas, vocabulário de empreendedorismo, território de recusa]
-keywords: [Flammarion Engraving, criar, construir, integrar, empreender, lançar, sustentar, negócio, projeto, realização, evidência, construção, pertencimento, autonomia, autoria, agência, emergir, consciência, propósito, Lente, Sistema Vivo, Fogo, Camadas, Prometheus, prisma, micélio, travessia, Atom, nexialismo, registro provocativo, registro acolhedor, registro técnico, registro inspirador, acenda, forje, destrave, empoderamento, sinergia, despertar, vagas limitadas, hustle, grind, guru, mindset milionário, liberdade financeira, 6 em 7]
+keywords: [Flammarion Engraving, criar, construir, integrar, empreender, lançar, sustentar, negócio, projeto, realização, evidência, construção, pertencimento, autonomia, autoria, agência, emergir, consciência, propósito, Lente, Sistema Vivo, Fogo, Camadas, Prometheus, prisma, micélio, travessia, Atom, nexialismo, registro provocativo, registro acolhedor, registro técnico, registro inspirador, acenda, forje, destrave, empoderamento, sinergia, despertar, vagas limitadas, hustle, grind, guru, mindset milionário, liberdade financeira, 6 em 7, em um mundo cada vez mais, jornada transformadora, desbloquear potencial, insights valiosos, sem precedentes, guia rápido de escrita]
 priority: medium
 ai_when_to_use: |
-  Use quando o usuário perguntar quais palavras a Overlens usa ou evita, qual o campo semântico de uma palavra, como falar de negócio, projeto, evidência e pertencimento sem cair em hustle porn ou tom de guru, qual metáfora aplicar, qual registro de intensidade adequado a um contexto, ou quando estiver revisando texto em busca de termos proibidos (acenda, destrave, empoderamento, vagas limitadas, mindset milionário, 6 em 7 etc.).
-related: ["brand_system/05 - Universo Verbal/03 Tom de Voz.md", "brand_system/05 - Universo Verbal/04 Vocabulário.md", "brand_system/05 - Universo Verbal/06 Glossário.md"]
+  Use quando o usuário perguntar quais palavras a Overlens usa ou evita, qual o campo semântico de uma palavra, como falar de negócio, projeto, evidência e pertencimento sem cair em hustle porn ou tom de guru, qual metáfora aplicar, qual registro de intensidade adequado a um contexto, ou quando estiver revisando texto em busca de termos proibidos (acenda, destrave, empoderamento, vagas limitadas, mindset milionário, 6 em 7, jornada transformadora, desbloquear potencial etc.).
+related: ["brand_system/05 - Universo Verbal/03 Tom de Voz.md", "brand_system/05 - Universo Verbal/04 Vocabulário.md", "brand_system/05 - Universo Verbal/06 Glossário.md", "estudio_criativo/07 - Guia de Escrita/01 Guia Rápido de Escrita.md"]
 ---
 
 # Território de Palavras
@@ -173,6 +173,12 @@ A identidade verbal de uma marca se define tanto pelo que diz quanto pelo que se
 | **Guru, mestre, método infalível** | Transfere a autoria do resultado para quem ensina | *Professor, referência, método testável* |
 | **6 em 7, faça como eu fiz** | Promessa de resultado replicável que ignora contexto e risco | *O que foi construído, em quanto tempo e a que custo* |
 | **Aluno (como identidade)** | Reduz uma pessoa à condição transacional de quem compra um curso | *Atom, membro da comunidade, quem constrói aqui* |
+| **Em um mundo cada vez mais, no cenário atual** | Abertura genérica que serve a qualquer empresa | *Comece pelo fato ou pela cena concreta* |
+| **Jornada transformadora, desbloquear potencial, elevar a outro nível** | Promessa vaga, sem conteúdo verificável | *Descreva o que a pessoa faz e o que muda* |
+| **Insights valiosos, mergulhar profundamente, sem precedentes** | Clichês que simulam profundidade | *Diga qual é a descoberta* |
+| **Incrível, poderoso, revolucionário (sem demonstração)** | Adjetivo no lugar de prova | *Mostre o que torna aquilo relevante* |
+
+As quatro últimas linhas vêm da lista de vícios de vocabulário do [Guia Rápido de Escrita](/estudio/07-guia-de-escrita/01-guia-rapido-de-escrita), que também trata dos vícios de estrutura e de tom (travessões, fórmulas como "não é X, é Y", tríades artificiais, emojis decorativos). <dado q="B" nota="O guia é uma minuta (V1, 10/10/2026)." />
 
 ---
 

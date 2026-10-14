@@ -6,7 +6,7 @@ keywords: [Business Model Canvas, BMC, Alexander Osterwalder, nove blocos, segme
 priority: medium
 ai_when_to_use: |
   Use apenas para explicar que o Business Model Canvas da Overlens está PENDENTE DE CONSTRUÇÃO, quais blocos dependem de quais insumos e o que precisa existir antes de preenchê-lo. Nunca cite esta página como se houvesse um canvas pronto, nem derive blocos a partir da documentação anterior. O canvas antigo foi construído sob a tese de escola de IA e está preservado apenas como registro histórico.
-related: ["business_doc/02 - Modelos/02 - Lean Canvas.md", "business_doc/03 - Arquitetura/02 - Arquitetura de Receita.md", "business_doc/06 - Histórico/02 - Registro do Modelo Anterior.md", "business_doc/04 - Estratégia/01 - Moats.md"]
+related: ["business_doc/02 - Modelos/02 - Lean Canvas.md", "business_doc/03 - Arquitetura/02 - Arquitetura de Receita.md", "business_doc/06 - Histórico/02 - Registro do Modelo Anterior.md", "business_doc/04 - Estratégia/01 - Moats.md", "growth_system/04 - Operação Comercial/35 - Política Comercial.md"]
 ---
 # Business Model Canvas
 
@@ -29,8 +29,8 @@ O Business Model Canvas, de Alexander Osterwalder, organiza o negócio em nove c
 | 1 | **Segmentos de Clientes** | Quem são os grupos que a Overlens atende, definidos por mentalidade e comportamento, não por profissão. | Pendente: depende da redefinição de personas e segmentos no Growth System. |
 | 2 | **Proposta de Valor** | O que a Overlens entrega a cada segmento e por que isso importa para ele. | Pendente: resumo executivo virá do Value Proposition Canvas, no Growth System. |
 | 3 | **Canais** | Como cada segmento descobre, avalia, compra e recebe. | Pendente: detalhamento pertence ao Growth System. |
-| 4 | **Relacionamento com Clientes** | Que tipo de relação a companhia estabelece e mantém, incluindo o papel da comunidade. | Pendente: depende do Community System. |
-| 5 | **Fontes de Receita** | Como a companhia captura valor em cada frente. | Parcial: ver **Arquitetura de Receita**, que separa receita existente de experimental. |
+| 4 | **Relacionamento com Clientes** | Que tipo de relação a companhia estabelece e mantém, incluindo o papel da comunidade. | Pendente: depende do Community System. A responsabilidade comercial pelo relacionamento pós-venda (Customer Success) está em [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais), no Growth System. |
+| 5 | **Fontes de Receita** | Como a companhia captura valor em cada frente. | Parcial: ver **Arquitetura de Receita**, que separa receita existente de experimental. Preços de tabela vigentes estão na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial) e na [Política de Instrutoria, Palestras e Ativos de Marca](/business/03-arquitetura/05-politica-de-instrutoria-palestras-e-ativos-de-marca). |
 | 6 | **Recursos-Chave** | Que ativos são indispensáveis para operar o modelo. | Parcial: hipóteses em **Moats**. |
 | 7 | **Atividades-Chave** | O que a companhia precisa fazer bem, obrigatoriamente. | Pendente. |
 | 8 | **Parcerias-Chave** | De quem a companhia depende e o que terceiriza. | Pendente. |

@@ -27,7 +27,7 @@ Isso muda a natureza dos fluxos documentados aqui.
 
 Campanhas não desaparecem: passam a ser **intensificações de um sistema que já opera**, e não o sistema inteiro. Um lançamento sobre uma operação contínua é um pico; um lançamento sem ela é a única fonte de receita do período.
 
-O detalhamento dessa migração (aquisição contínua, vendas diárias, CRM, follow-up, recuperação, conteúdo, eventos recorrentes, produtos perpétuos, expansão e retenção) está em **Arquitetura Comercial**, nesta mesma seção. É a página a consultar antes de desenhar qualquer fluxo novo.
+O detalhamento dessa migração (aquisição contínua, vendas diárias, CRM, follow-up, recuperação, conteúdo, eventos recorrentes, produtos perpétuos, expansão e retenção) está em [Arquitetura Comercial](/growth/03-estrategia/34-arquitetura-comercial), nesta mesma seção. É a página a consultar antes de desenhar qualquer fluxo novo. Quem responde por cada etapa da operação está em [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais).
 
 ## Princípios que valem para qualquer fluxo
 
@@ -44,7 +44,8 @@ O detalhamento dessa migração (aquisição contínua, vendas diárias, CRM, fo
 Esta página descreve a lógica dos fluxos. **O desenho operacional de cada um deles ainda não está definido.**
 
 - Quais fluxos existem, nomeados e com dono. <dado q="E" />
-- Cadência, gatilhos e critérios de entrada e saída de cada fluxo. <dado q="E" />
+- Os critérios gerais de elegibilidade por estágio, as exclusões (quem já realizou a ação esperada sai da comunicação) e o dono das automações, tags e gatilhos (Rafael Braz) estão em minuta na [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens). <dado q="B" nota="Minuta V1, 10/10/2026." />
+- Cadência e gatilhos específicos de cada fluxo. <dado q="E" />
 - Ferramentas que sustentam a automação. <dado q="E" />
 - Como campanhas e operação contínua convivem no calendário. <dado q="E" />
 

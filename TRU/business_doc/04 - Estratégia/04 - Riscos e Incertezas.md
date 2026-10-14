@@ -50,6 +50,8 @@ A atenção, a autoridade e a entrega de topo concentram-se de forma significati
 
 **Mitigação parcial:** experts, proxies e base documental. Nenhuma delas substitui a voz na camada de atenção, que é onde a concentração é maior.
 
+No plano comercial, a [Política de Instrutoria, Palestras e Ativos de Marca](/business/03-arquitetura/05-politica-de-instrutoria-palestras-e-ativos-de-marca) separa receita institucional (workshops e AI Builds, mesmo quando o fundador ministra) de negócios da marca pessoal. Isso torna a concentração mensurável, mas não a reduz na camada de atenção. <dado q="A" />
+
 ### E2 · Capacidade sênior disputada entre frentes
 
 **Severidade: alta · Já é o caso.**

@@ -33,7 +33,7 @@ Nem tudo aqui tem o mesmo grau de maturidade. Registrar o status de cada frente 
 | **Overpass** | Camada contínua: ambiente onde o Atom desenvolve capacidades ao longo do tempo | <dado q="A" /> |
 | **Vanguarda** | Camada de aceleração | <dado q="A" /> |
 | **Protocolo 3-2-1** | Estrutura para transformar ideias dispersas em projetos com direção, forma e prazo | <dado q="E" nota="Existe como método; sem definição comercial atual." /> |
-| **Blackpass** | Nome herdado da arquitetura anterior | <dado q="E" nota="Sem definição comercial atual." /> |
+| **Blackpass** | Nome herdado da arquitetura anterior. Acesso vitalício ao Overpass: quem o comprou mantém esse acesso e pode usar o valor efetivamente pago como crédito no upgrade para a Vanguarda, respeitado o piso da nova venda (ver [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial), onde a grafia é *Black Pass*). Venda e preço atuais não estão definidos. | <dado q="A" nota="Definição e regra de crédito na Política Comercial, 8.2." /> <dado q="E" nota="Venda e preço atuais não definidos." /> |
 
 **Frentes de negócio**
 
@@ -43,11 +43,13 @@ Nem tudo aqui tem o mesmo grau de maturidade. Registrar o status de cada frente 
 | **Comunidade** | Infraestrutura de aprendizagem e realização entre Atoms | <dado q="A" /> |
 | **Assessoria** | Acompanhamento contínuo e proximidade na resolução de problemas reais de uma empresa. Não é agência. | <dado q="A" nota="Já validada comercialmente." /> |
 | **Consultoria** | Diagnostica, recomenda e estrutura caminhos. A fronteira com a assessoria ainda não foi definida. | <dado q="B" /> |
-| **B2B** | Relação com empresas como clientes do ecossistema | <dado q="B" /> |
+| **B2B** | Relação com empresas como clientes do ecossistema. Já há ofertas com regra comercial aprovada (Overpass Empresarial, Workshops de IA e AI Build), descritas na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial) e na [Política de Instrutoria](/business/03-arquitetura/05-politica-de-instrutoria-palestras-e-ativos-de-marca). | <dado q="B" nota="A frente segue em validação; as regras comerciais dessas ofertas estão aprovadas." /> |
 | **Aceleração** | Ajuda algo que já existe a avançar mais rápido | <dado q="B" /> |
 | **Incubação** | Acompanha um projeto específico em estágio inicial. Não é curso, consultoria tradicional nem mentoria genérica. | <dado q="C" nota="Frente em construção." /> |
 | **Eventos** | Encontros, hackathons e iniciativas de prática (ver Atom Praxis) | <dado q="B" /> |
 | **Produtos físicos e artefatos** | Objetos que representam identidade, participação, memória e acesso | <dado q="C" /> |
+
+Duas decisões sobre as ofertas empresariais seguem abertas e não estão resolvidas nesta página: se "Workshop de IA" e "AI Build" entram na arquitetura como sub-marcas (decisão de naming do Brand System, ainda não tomada), e se o AI Build se enquadra na frente B2B ou na de Serviços. Até lá, os dois nomes descrevem ofertas, não entidades da arquitetura de marca. <dado q="E" />
 
 Esses produtos e frentes funcionam como portais de entrada e aprofundamento, permitindo que empreendedores em situações diferentes encontrem seu caminho dentro do ecossistema.
 
@@ -66,6 +68,8 @@ A definição conceitual completa está na página Atom, no Núcleo da Marca. A 
 A Overlens também possui uma **dimensão autoral**. A marca pessoal de **Ruan Braz** representa a voz filosófica, reflexiva e investigativa que alimenta muitas das ideias e fundamentos da plataforma. Enquanto a Overlens opera como **estrutura formativa e estratégica**, a marca pessoal funciona como **fonte de pensamento, provocação e visão**.
 
 **Marca pessoal:** Ruan Braz
+
+Marca pessoal e marca institucional têm titularidade comercial distinta. Workshops e AI Builds são produtos da Overlens mesmo quando o fundador ministra; palestras contratadas pela reputação do fundador, patrocínios e demais oportunidades ligadas à imagem dele seguem a [Política de Instrutoria, Palestras e Ativos de Marca](/business/03-arquitetura/05-politica-de-instrutoria-palestras-e-ativos-de-marca), no Business Document, que separa ativos pessoais, institucionais e híbridos. <dado q="A" />
 
 ## Personas Sintéticas
 

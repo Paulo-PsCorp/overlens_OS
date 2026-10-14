@@ -66,6 +66,19 @@ O público da Overlens é o **empreendedor**: quem tem uma ideia, ambição ou v
 - promessas de enriquecimento, faturamento ou "liberdade financeira"
 - "escale seu negócio", "6 em 7", glamourização de rotina extrema, tom de startup bro
 - qualquer promessa de resultado garantido
+- **travessão (— ou –)**: proibido em toda a base. Use dois pontos, vírgula, ponto ou parênteses
+
+### Vícios de escrita a evitar
+
+Vêm do [Guia Rápido de Escrita](../../website/content/estudio_criativo/07%20-%20Guia%20de%20Escrita/01%20Guia%20Rápido%20de%20Escrita.md) (`website/content/estudio_criativo/07 - Guia de Escrita/01 Guia Rápido de Escrita.md`, minuta V1), que é a referência completa. Não são proibidos isoladamente: só aparecem quando fizerem sentido no contexto, e nunca como cadência ou assinatura de estilo.
+
+- fórmulas "não é X, é Y" e "mais do que X", tríades artificiais, contrastes forçados, perguntas retóricas respondidas na frase seguinte e sequências de frases curtas que não avançam a ideia
+- vocabulário vazio: "em um mundo cada vez mais", "no cenário atual", "jornada transformadora", "desbloquear potencial", "elevar a outro nível", "insights valiosos", "mergulhar profundamente", "sem precedentes"; "incrível", "poderoso" e "revolucionário" sem demonstração
+- abstração sem significado, falsa profundidade, generalização sem prova, repetição da tese, falso equilíbrio
+- entusiasmo automático, motivação genérica, intimidade fabricada, tom professoral, emojis decorativos
+- negrito em palavras comuns, subtítulo a cada dois parágrafos, lista para qualquer raciocínio, cadência sempre simétrica
+
+Revise com as três perguntas do guia: poderia ser texto de qualquer empresa? Há substância concreta? Alguém escreveria assim nesse canal?
 
 ## Classificação de Certeza
 

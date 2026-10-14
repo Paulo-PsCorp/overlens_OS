@@ -92,6 +92,12 @@ As virtudes orientam a comunicação, comportamento e decisões da Overlens. Cad
 * *Gírias ou linguagem desleixada*  
 * *Sensacionalismo ou superficialidade*
 
+### Aplicação por canal
+
+Esta página define a voz. A aplicação operacional dela em cada canal (WhatsApp, e-mail, Instagram, LinkedIn, YouTube), os vícios de escrita a evitar e os critérios de revisão para pessoas e agentes de IA estão no [Guia Rápido de Escrita](/estudio/07-guia-de-escrita/01-guia-rapido-de-escrita), no Estúdio Criativo. O guia aplica o tom; não o redefine. Em conflito, vale esta página. <dado q="B" nota="O guia é uma minuta (V1, 10/10/2026)." />
+
+O guia descreve a voz, para uso operacional, como humana, inteligente, precisa, curiosa, direta e autoral. Essa formulação é compatível com as quatro virtudes acima e está em validação; ainda não substitui a definição desta página. <dado q="B" nota="Formulação operacional do Guia Rápido de Escrita, Minuta V1." />
+
 ## **Estratégia em Camadas (Ethos, Pathos, Logos)**
 
 *A comunicação da Overlens segue uma lógica retórica clara para eficácia máxima:*
@@ -194,4 +200,4 @@ Evite clichês ou frases motivacionais vazias. A inspiração deve ter base sól
  "Se você se sente preocupado, você não está sozinho. Mas quem enxerga a mudança antes, pode aproveitar oportunidades únicas."
 
 **Conclusão profunda e inspiradora (Profundidade)**:  
- "Na Overlens, acreditamos que você pode definir o futuro ao invés de reagir a ele. Não espere a mudança acontecer-seja parte da criação desse futuro."
+ "Na Overlens, acreditamos que você pode definir o futuro ao invés de reagir a ele. Não espere a mudança acontecer: seja parte da criação desse futuro."

@@ -6,7 +6,7 @@ keywords: [atlas, experiência de entrada, ativação, imersão, primeira experi
 priority: high
 ai_when_to_use: |
   Use quando o usuário perguntar sobre o Atlas, como posicionar e vender a experiência de entrada da Overlens, qual o argumento do Atlas, como alguém descobre e decide entrar, histórico de preços e formatos praticados, ou como o Atlas se conecta às demais camadas do ecossistema.
-related: [growth_system/02 - Ofertas/23 - Ofertas, growth_system/02 - Ofertas/29 - Overpass, business_doc/03 - Arquitetura/01 - Arquitetura de Produtos e Serviços]
+related: [growth_system/02 - Ofertas/23 - Ofertas, growth_system/02 - Ofertas/29 - Overpass, business_doc/03 - Arquitetura/01 - Arquitetura de Produtos e Serviços, growth_system/04 - Operação Comercial/35 - Política Comercial, growth_system/04 - Operação Comercial/36 - Responsabilidades Comerciais, growth_system/04 - Operação Comercial/37 - Política de Mensagens]
 ---
 # Atlas
 
@@ -91,7 +91,11 @@ O que se sabe hoje sobre o caminho até a inscrição: <dado q="B" />
 | **Participa** | A experiência é o argumento da próxima decisão. |
 | **Continua** | Descobre a camada contínua e a camada de aceleração. |
 
-A cadência de comunicação, o processo de follow-up e o desenho da passagem do Atlas para as demais camadas ainda não estão definidos. Ver *Arquitetura Comercial*, na seção de Estratégia. <dado q="E" />
+Os critérios gerais de comunicação por estágio da jornada (canal, momento, quando não enviar) estão em minuta na [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens). <dado q="B" />
+
+A cadência específica do Atlas, o processo de follow-up e o desenho da passagem do Atlas para as demais camadas ainda não estão definidos. Ver *Arquitetura Comercial*, na seção de Estratégia. <dado q="E" />
+
+[Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais) situa o Atlas no setor de Parcerias e Patrocínios. Se isso cobre a venda do Atlas ou apenas a sua operação e seus eventos ainda precisa ser esclarecido. <dado q="E" />
 
 ## Ficha técnica: Atlas
 
@@ -111,6 +115,8 @@ A cadência de comunicação, o processo de follow-up e o desenho da passagem do
 | **Persona principal** | **Necessita revisão de persona.** As personas anteriores não devem ser usadas como verdade atual. |
 
 **Nota sobre preços.** Os valores acima são **registro factual do que já foi praticado**, não tabela vigente. A estrutura de lotes e as datas de edições anteriores foram removidas desta página por terem envelhecido, e porque urgência datada não é o mecanismo de conversão que a Overlens quer sustentar.
+
+**Preço vigente.** A [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial) de outubro de 2026 cobre a Vanguarda, o Overpass e as ofertas empresariais, mas não o Atlas. Não há tabela vigente do Atlas registrada nesta base. <dado q="E" />
 
 ## O que mudou em relação à documentação anterior
 

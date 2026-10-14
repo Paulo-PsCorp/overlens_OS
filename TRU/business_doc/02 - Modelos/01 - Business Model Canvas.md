@@ -19,8 +19,8 @@ O Business Model Canvas, de Alexander Osterwalder, organiza o negócio em nove c
 | 1 | **Segmentos de Clientes** | Quem são os grupos que a Overlens atende, definidos por mentalidade e comportamento, não por profissão. | Pendente: depende da redefinição de personas e segmentos no Growth System. |
 | 2 | **Proposta de Valor** | O que a Overlens entrega a cada segmento e por que isso importa para ele. | Pendente: resumo executivo virá do Value Proposition Canvas, no Growth System. |
 | 3 | **Canais** | Como cada segmento descobre, avalia, compra e recebe. | Pendente: detalhamento pertence ao Growth System. |
-| 4 | **Relacionamento com Clientes** | Que tipo de relação a companhia estabelece e mantém, incluindo o papel da comunidade. | Pendente: depende do Community System. |
-| 5 | **Fontes de Receita** | Como a companhia captura valor em cada frente. | Parcial: ver **Arquitetura de Receita**, que separa receita existente de experimental. |
+| 4 | **Relacionamento com Clientes** | Que tipo de relação a companhia estabelece e mantém, incluindo o papel da comunidade. | Pendente: depende do Community System. A responsabilidade comercial pelo relacionamento pós-venda (Customer Success) está em [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais), no Growth System. |
+| 5 | **Fontes de Receita** | Como a companhia captura valor em cada frente. | Parcial: ver **Arquitetura de Receita**, que separa receita existente de experimental. Preços de tabela vigentes estão na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial) e na [Política de Instrutoria, Palestras e Ativos de Marca](/business/03-arquitetura/05-politica-de-instrutoria-palestras-e-ativos-de-marca). |
 | 6 | **Recursos-Chave** | Que ativos são indispensáveis para operar o modelo. | Parcial: hipóteses em **Moats**. |
 | 7 | **Atividades-Chave** | O que a companhia precisa fazer bem, obrigatoriamente. | Pendente. |
 | 8 | **Parcerias-Chave** | De quem a companhia depende e o que terceiriza. | Pendente. |

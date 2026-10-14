@@ -39,6 +39,8 @@ Isso muda o que este sistema precisa documentar. Um modelo de lançamentos organ
 
 A consequência prática: documentos deste sistema que descrevem o funil como sequência de campanha estão desatualizados e precisam ser relidos sob a lógica de operação contínua. A migração é direção assumida, não obra concluída.
 
+Parte dessa operação já tem regra escrita na seção **Operação Comercial**: preços, pisos e exceções na [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial); quem responde por cada parte (Comercial, Customer Success, Parcerias, Financeiro e Direção) em [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais); e os critérios de quem comunica, para quem, quando e em qual canal na [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens), ainda em minuta. <dado q="B" nota="Política Comercial e Responsabilidades aprovadas; Política de Mensagens em minuta." />
+
 ## A quem se destina?
 
 Este material é voltado a todas as pessoas envolvidas com a **expressão da Overlens no mundo**: equipes de marketing, vendas, branding, conteúdo, atendimento, estratégia e produto. Inclui também nossos experts, proxies, parceiros externos e demais colaboradores que atuam na construção e propagação da marca. Se você é responsável por comunicar, vender ou representar a Overlens de qualquer forma, este sistema é parte do seu ofício. Sua leitura não é eventual.
@@ -49,7 +51,19 @@ Consulte este sistema em todo início de ciclo. Use-o ao planejar campanhas, ao 
 
 ## Como utilizá-lo?
 
-Este sistema foi estruturado em módulos autônomos, organizados para leitura contínua ou consulta pontual. Cada seção parte de um fundamento e avança para orientações práticas, sempre ancoradas na realidade da Overlens. Recomendamos iniciar por **Mercado e Público**, que estabelece categoria, segmentos e a quem falamos. Em seguida, explore os capítulos sobre narrativa, diferenciais, canais, comportamento de compra e frameworks de vendas. Ao final, encontrará anexos com templates, exemplos e orientações operacionais. **Use este sistema como uma fonte.** Extraia dele a água que precisa, mas preserve o curso. A interpretação criativa é bem-vinda, desde que respeite a integridade do sistema.
+Este sistema foi estruturado em módulos autônomos, organizados para leitura contínua ou consulta pontual. Cada seção parte de um fundamento e avança para orientações práticas, sempre ancoradas na realidade da Overlens. Recomendamos iniciar por **Mercado e Público**, que estabelece categoria, segmentos e a quem falamos. Em seguida, explore os capítulos sobre narrativa, diferenciais, canais, comportamento de compra e frameworks de vendas. Ao final, encontrará anexos com templates, exemplos e orientações operacionais.
+
+O sistema está organizado em cinco seções:
+
+| Seção | O que reúne |
+| :---- | :---- |
+| **00 · Definição** | Esta página: escopo, públicos do documento e relação com os outros systems |
+| **01 · Mercado e Público** | Mercado, segmento, TAM SAM SOM, público, perfis, personas e benchmarking |
+| **02 · Ofertas** | Mapa das frentes e páginas de Atlas, Overpass e Vanguarda do ponto de vista do crescimento |
+| **03 · Estratégia** | Jobs To Be Done, Fluxos, Growth Loop e Arquitetura Comercial |
+| **04 · Operação Comercial** | [Política Comercial](/growth/04-operacao-comercial/35-politica-comercial), [Responsabilidades Comerciais](/growth/04-operacao-comercial/36-responsabilidades-comerciais) e [Política de Mensagens](/growth/04-operacao-comercial/37-politica-de-mensagens): as regras que a operação contínua aplica no dia a dia |
+
+**Use este sistema como uma fonte.** Extraia dele a água que precisa, mas preserve o curso. A interpretação criativa é bem-vinda, desde que respeite a integridade do sistema.
 
 ## Relação com os outros systems
 

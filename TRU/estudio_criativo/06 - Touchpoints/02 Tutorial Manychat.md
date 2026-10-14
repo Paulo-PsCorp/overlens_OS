@@ -40,14 +40,7 @@ Botão: Quero sim :D
 
 ## DM Solicitando que siga o perfil
 
-****  
-Ative a opção “uma DM solicitando que sigam…” e cole a mensagem abaixo.
-
-TEMPLATE
-
-Poxa, acabei de ver que você ainda não segue a Overlens. Esse link é especial para nossos seguidores ✨ 
-
-Assim que você nos seguir, toque no botão abaixo e eu vou enviar o link para você aproveitar tudo :D
+Mantenha **desativada** a opção “uma DM solicitando que sigam…”. O material vai para quem pediu, sem exigir follow, marcação de outras pessoas nem cadastro em outras comunicações, conforme o [Guia Rápido de Escrita](/estudio/07-guia-de-escrita/01-guia-rapido-de-escrita). <dado q="B" nota="Guia em minuta V1." />
 
 ## DM de agradecimento
 
@@ -69,3 +62,7 @@ No texto do botão, coloque “Acessar agora”.
 No link, coloque o link do Material no **Gumroad** ou **Google Docs**
 
 Depois, toque em **salvar** e, em seguida, toque em **Ativar** no canto superior direito.  
+
+## Histórico
+
+Versões anteriores deste tutorial mandavam ativar a opção “uma DM solicitando que sigam…”, para que só seguidores recebessem o material, com o template: “Poxa, acabei de ver que você ainda não segue a Overlens. Esse link é especial para nossos seguidores ✨ Assim que você nos seguir, toque no botão abaixo e eu vou enviar o link para você aproveitar tudo :D”. <dado q="D" />

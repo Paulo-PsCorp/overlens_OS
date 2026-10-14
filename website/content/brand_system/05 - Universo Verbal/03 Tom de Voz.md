@@ -1,12 +1,12 @@
 ---
 title: Tom de Voz
-summary: Define os 4 tons da Overlens (Científico, Profundo, Provocativo, Inspirador) mais a virtude transversal Adaptável, com excessos a evitar, faltas a corrigir, exemplos práticos lado a lado e a estratégia em camadas Ethos-Pathos-Logos.
+summary: Define os 4 tons da Overlens (Científico, Profundo, Provocativo, Inspirador) mais a virtude transversal Adaptável, com excessos a evitar, faltas a corrigir, exemplos práticos lado a lado e a estratégia em camadas Ethos-Pathos-Logos. Remete ao Guia Rápido de Escrita como aplicação operacional por canal.
 topics: [tom de voz, virtudes, Ethos Pathos Logos, exemplos práticos, diretrizes de redação]
-keywords: [científico, profundo, provocativo, inspirador, adaptável, virtudes, excesso, falta, Ethos, Pathos, Logos, Magritte, The Treachery of Images, Honestidade, Maestria, Coragem, Curiosidade, Realização, hustle porn, empreendedorismo sem promessa, evergreen, headlines, CTA, onboarding]
+keywords: [científico, profundo, provocativo, inspirador, adaptável, virtudes, excesso, falta, Ethos, Pathos, Logos, Magritte, The Treachery of Images, Honestidade, Maestria, Coragem, Curiosidade, Realização, hustle porn, empreendedorismo sem promessa, evergreen, headlines, CTA, onboarding, guia rápido de escrita, aplicação por canal, vícios de escrita]
 priority: high
 ai_when_to_use: |
   Use quando o usuário perguntar sobre tom de voz, como escrever no estilo Overlens, exemplos do que evitar, qual tom usar em cada contexto (redes sociais, cursos, manifestos, evergreen), ou quando estiver redigindo conteúdo que precise soar como a marca.
-related: ["brand_system/04 - Núcleo da Marca/05 Virtudes.md", "brand_system/04 - Núcleo da Marca/02 Posicionamento.md", "brand_system/05 - Universo Verbal/05 Território de palavras.md"]
+related: ["brand_system/04 - Núcleo da Marca/05 Virtudes.md", "brand_system/04 - Núcleo da Marca/02 Posicionamento.md", "brand_system/05 - Universo Verbal/05 Território de palavras.md", "estudio_criativo/07 - Guia de Escrita/01 Guia Rápido de Escrita.md"]
 ---
 
 # Tom de Voz
@@ -102,6 +102,12 @@ As virtudes orientam a comunicação, comportamento e decisões da Overlens. Cad
 * *Jargões técnicos desnecessários*  
 * *Gírias ou linguagem desleixada*  
 * *Sensacionalismo ou superficialidade*
+
+### Aplicação por canal
+
+Esta página define a voz. A aplicação operacional dela em cada canal (WhatsApp, e-mail, Instagram, LinkedIn, YouTube), os vícios de escrita a evitar e os critérios de revisão para pessoas e agentes de IA estão no [Guia Rápido de Escrita](/estudio/07-guia-de-escrita/01-guia-rapido-de-escrita), no Estúdio Criativo. O guia aplica o tom; não o redefine. Em conflito, vale esta página. <dado q="B" nota="O guia é uma minuta (V1, 10/10/2026)." />
+
+O guia descreve a voz, para uso operacional, como humana, inteligente, precisa, curiosa, direta e autoral. Essa formulação é compatível com as quatro virtudes acima e está em validação; ainda não substitui a definição desta página. <dado q="B" nota="Formulação operacional do Guia Rápido de Escrita, Minuta V1." />
 
 ## **Estratégia em Camadas (Ethos, Pathos, Logos)**
 
@@ -205,4 +211,4 @@ Evite clichês ou frases motivacionais vazias. A inspiração deve ter base sól
  "Se você se sente preocupado, você não está sozinho. Mas quem enxerga a mudança antes, pode aproveitar oportunidades únicas."
 
 **Conclusão profunda e inspiradora (Profundidade)**:  
- "Na Overlens, acreditamos que você pode definir o futuro ao invés de reagir a ele. Não espere a mudança acontecer-seja parte da criação desse futuro."
+ "Na Overlens, acreditamos que você pode definir o futuro ao invés de reagir a ele. Não espere a mudança acontecer: seja parte da criação desse futuro."
